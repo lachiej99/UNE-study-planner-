@@ -1,44 +1,56 @@
-import requests
-from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import NoSuchElementException, TimeoutException
+from webdriver_manager.chrome import ChromeDriverManager
 
-# URL of the webpage
-url = "https://handbook.une.edu.au/search"
+# Setup WebDriver
+service = Service(ChromeDriverManager().install())
+driver = webdriver.Chrome(service=service)
+driver.implicitly_wait(1)
+driver.get("https://handbook.une.edu.au/search")
 
-# Make a GET request to the webpage
-response = requests.get(url)
-
-# Check if the request was successful
-if response.status_code == 200:
-    # Parse the HTML content
-    soup = BeautifulSoup(response.content, 'html.parser')
-    # Find all anchor elements with the specified class
-    print(soup)
-    course_links = soup.find_all('a', class_='css-1flav9m-results-styles--StyledLink e1ecnqs54')
-    print(course_links)
-    # Extract the URLs from the anchor elements
-    course_urls = [link['href'] for link in course_links]
-    # Print the list of course URLs
-    print(course_urls)
-else:
-    print("Error:", response.status_code)
+unit_codes = []
+descriptions = []
+wait = WebDriverWait(driver, 20)
 
 
-from bs4 import BeautifulSoup
+try:
+    while True:
+        # Wait for the unit links to be fully loaded
+        course_elements = wait.until(EC.presence_of_all_elements_located((By.XPATH, "//span[@class='result-item-title']/ancestor::a")))
+        for element in course_elements:
+            href = element.get_attribute('href')
+            description = element.find_element(By.CLASS_NAME, 'result-item-title').text  # Assuming the description is directly in this span
+            if href:
+                unit_code = href.split('/')[-1]
+                unit_codes.append(unit_code)
+                descriptions.append(description)
+                print(f"Unit Code: {unit_code}, Description: {description}")
 
-# Sample HTML snippet
-html_snippet = '<a href="/units/2024/AFM211" class="css-1flav9m-results-styles--StyledLink e1ecnqs54"><span class="result-item-title"><span><span class="">AFM211 Intermediate Financial Accounting</span></span></span><div class="result-item-content1">Unit | All</div></a>'
+        # Scroll to the bottom of the page
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 
-# Parse the HTML snippet
-soup = BeautifulSoup(html_snippet, 'html.parser')
+        # Wait for the 'Next' button to be clickable
+        next_button = wait.until(EC.element_to_be_clickable((By.ID, 'pagination-page-next')))
+        driver.execute_script("arguments[0].click();", next_button)
 
-# Find the <a> tag
-a_tag = soup.find('a')
+        # Wait for the page to update
+        wait.until(EC.staleness_of(course_elements[0]))
 
-# Extract the value of the 'href' attribute
-href_value = a_tag['href']
+except NoSuchElementException:
+    print("Reached the last page.")
+except TimeoutException:
+    print("Failed to load a new page or no 'Next' button clickable.")
 
-# Split the href value by '/' and get the unit code
-unit_code = href_value.split('/')[-1]
+# Close the driver
+driver.quit()
 
-print("Unit Code:", unit_code)
+# Output the collected unit codes and descriptions to a text file
+with open('unit_codes_and_descriptions.txt', 'w') as file:
+    for code, desc in zip(unit_codes, descriptions):
+        file.write(f"{code}: {desc}\n")
 
+print("Collected unit codes and descriptions saved to file.")

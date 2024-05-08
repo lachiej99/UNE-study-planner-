@@ -1,0 +1,2037 @@
+ADHE401: ADHE401 Foundations of Learning and Teaching in Higher Education
+ADHE402: ADHE402 Designing for Learning in Higher Education
+ADHE403: ADHE403 Quality Assessment and Feedback in Higher Education
+ADHE404: ADHE404 Academic Quality in Higher Education
+AFM101: AFM101 Introduction to Financial Accounting
+AFM104: AFM104 Fundamentals of Personal Finance
+AFM112: AFM112 Introduction to Management Accounting
+AFM123: AFM123 Accounting Information for Business Decision-making
+AFM202: AFM202 Cost Management
+AFM211: AFM211 Intermediate Financial Accounting
+AFM217: AFM217 Financial Management I
+AFM219: AFM219 Financial Management II
+AFM231: AFM231 Corporate Finance
+AFM275: AFM275 Accounting Information Systems
+AFM301: AFM301 Accounting Theory
+AFM304: AFM304 Financial Statement Analysis
+AFM305: AFM305 Advanced Financial Accounting
+AFM306: AFM306 Issues in Management Accounting
+AFM319: AFM319 Auditing
+AFM320: AFM320 Accounting and Finance for Business
+AFM321: AFM321 Accounting Project
+AFM322: AFM322 Small Business Finance
+AFM324: AFM324 Small Business Management
+AFM332: AFM332 Security Analysis and Portfolio Management
+AFM335: AFM335 International Financial Management
+AFM340: AFM340 Fraud Prevention and Investigation
+AFM403: AFM403 Management Accounting
+AFM404: AFM404 Fundamentals of Personal Finance
+AFM406: AFM406 Introductory Accounting
+AFM410: AFM410 Intermediate Financial Accounting
+AFM420: AFM420 Accounting and Finance for Business
+AFM501: AFM501 Accounting Theory and Research
+AFM504: AFM504 Financial Statement Analysis
+AFM505: AFM505 Advanced Financial Accounting
+AFM506: AFM506 Issues in Management Accounting
+AFM519: AFM519 Auditing
+AFM521: AFM521 Accounting Project
+AFM522: AFM522 Small Business Finance
+AFM524: AFM524 Entrepreneurship
+AFM531: AFM531 Corporate Finance
+AFM532: AFM532 Security Analysis and Portfolio Management
+AFM540: AFM540 Fraud Prevention and Investigation
+AFM575: AFM575 Accounting Information Systems
+AGCS300: AGCS300 Preparing the Future Face of Agriculture
+AGFN100: AGFN100 Fundamentals of Agriculture
+AGRO200: AGRO200 Agricultural Plants: Adaptation and Physiology
+AGRO311: AGRO311 Plant Protection
+AGRO321: AGRO321 Crop Production
+AGRO422: AGRO422 Integrated Weed Management
+AGRO500: AGRO500 Advanced Agronomy
+AGRO501: AGRO501 Organic Agriculture - Principles and Practice
+AGRO514: AGRO514 Plant Biosecurity
+AGRO522: AGRO522 Integrated Weed Management
+AGSY101: AGSY101 Sustainable Agricultural Systems I
+AGSY102: AGSY102 Sustainable Agricultural Systems II
+AGSY300: AGSY300 Grazing Systems
+AGSY410: AGSY410 Problem Solving in Farm Systems
+AGSY430: AGSY430 International Agricultural Systems
+AGWT300: AGWT300 Sustainable Agricultural Water Management
+AMTH140: AMTH140 Discrete Mathematics
+AMTH246: AMTH246 Mathematical Methods in the Sciences
+AMTH250: AMTH250 Computational Mathematics
+AMTH405: AMTH405 Mathematics for Machine Learning and Artificial Intelligence
+ANAT110: ANAT110 Introduction to Human Anatomy
+ANAT120: ANAT120 Functional Musculoskeletal Anatomy
+ANAT336: ANAT336 Forensic Anthropology
+ANCH109: ANCH109 Of Gods, Heroes and Monsters: Foundation Myths of Antiquity
+ANCH110: ANCH110 From Solon to Socrates
+ANCH111: ANCH111 Introduction to Ancient Rome
+ANCH307: ANCH307 Alexander the Great and the Hellenistic World
+ANCH312: ANCH312 Rome of the Caesars
+ANCH313: ANCH313 Augustus and the Roman Revolution
+ANCH315: ANCH315 The Shadow of Vesuvius: Pompeii and Herculaneum
+ANCH322: ANCH322 Bronze Age Greece and the Aegean
+ANCH326: ANCH326 The Art and Architecture of the Ancient Greek and Roman World
+ANCH328: ANCH328 Towns and Cities of the Ancient World
+ANCH380: ANCH380 Culture and Society in Ancient Greece and Rome
+ANCH400H: ANCH400H Honours in Ancient History
+ANCH507: ANCH507 Alexander the Great and the Hellenistic World
+ANCH512: ANCH512 Rome of the Caesars
+ANCH513: ANCH513 Augustus and the Roman Revolution
+ANCH515: ANCH515 The Shadow of Vesuvius: Pompeii and Herculaneum
+ANCH520: ANCH520 How to be Good: Greek and Roman Ethics
+ANCH522: ANCH522 Bronze Age Greece and the Aegean
+ANCH526: ANCH526 The Art and Architecture of the Ancient Greek and Roman World
+ANCH528: ANCH528 Towns and Cities of the Ancient World
+ANCH551: ANCH551 Warfare in the Ancient World
+ANPR211: ANPR211 Animal Production Systems and Products
+ANPR321: ANPR321 Animal Function, Health and Welfare
+ANPR340: ANPR340 Feedlot Management
+ANPR350: ANPR350 Sheep Management
+ANPR360: ANPR360 Beef Production
+ANPR417: ANPR417 Disease and its Control in Animals
+ANPR517: ANPR517 Disease and its Control in Animals
+ANSC101: ANSC101 Animal Handling
+ANSC201: ANSC201 Animal Physiology
+ANSC304: ANSC304 Animals and Us: Ethics and Welfare
+ANSC314: ANSC314 Animal Biosecurity
+ANSC315: ANSC315 Overcoming Constraints in Animal Science
+ANSC514: ANSC514 Animal Biosecurity
+ANUT300: ANUT300 Applied Animal Nutrition
+ANUT421: ANUT421 Advanced Animal Nutrition
+ANUT500: ANUT500 Applied Animal Nutrition
+ARPA100: ARPA100 Great Excavations: Key Discoveries in Archaeology
+ARPA104: ARPA104 Archaeology: Principles and Practices
+ARPA300: ARPA300 Debates in Archaeology: Theory, Ethics, Practice
+ARPA301: ARPA301 Maritime Archaeology
+ARPA302: ARPA302 Aboriginal Archaeology
+ARPA306: ARPA306 Historical and Contemporary Archaeology
+ARPA309: ARPA309 Zooarchaeology
+ARPA310: ARPA310 From Bread to Wine: The Archaeology of Food
+ARPA311: ARPA311 First Farmers: Understanding the Neolithic Revolution in the Ancient Near East
+ARPA313: ARPA313 Palaces, Temples, Towns and Tombs: The Bronze Age in the Ancient Near East
+ARPA314: ARPA314 Human Evolution and Archaeology
+ARPA315: ARPA315 Beyond the Grave: Archaeology of Death and Human Osteology
+ARPA320: ARPA320 Professional Archaeology and Heritage Management
+ARPA343: ARPA343 Archaeology in the Field
+ARPA356: ARPA356 Archaeology in the Laboratory
+ARPA384: ARPA384 Stone Tools: Analysis and Interpretation
+ARPA400H: ARPA400H Honours in Archaeology
+ARPA500: ARPA500 Debates in Archaeology: Theory, Ethics, Practice
+ARPA501: ARPA501 Maritime Archaeology
+ARPA502: ARPA502 Aboriginal Archaeology
+ARPA506: ARPA506 Historical and Contemporary Archaeology
+ARPA509: ARPA509 Zooarchaeology
+ARPA510: ARPA510 From Bread to Wine: The Archaeology of Food
+ARPA511: ARPA511 First Farmers: Understanding the Neolithic Revolution in the Ancient Near East
+ARPA513: ARPA513 Palaces, Temples, Towns and Tombs: The Bronze Age in the Ancient Near East
+ARPA514: ARPA514 Human Evolution and Archaeology
+ARPA515: ARPA515 Beyond the Grave: Archaeology of Death and Human Osteology
+ARPA520: ARPA520 Professional Archaeology and Heritage Management
+ARPA543: ARPA543 Archaeology in the Field
+ARPA556: ARPA556 Archaeology in the Laboratory
+ARPA584: ARPA584 Stone Tools: Analysis and Interpretation
+ASTY221: ASTY221 Introduction to Astronomy and Astrophysics
+BCHM210: BCHM210 Introductory Molecular Biology and Biochemistry I
+BCHM220: BCHM220 Introductory Biochemistry II
+BCHM240: BCHM240 Biochemistry and Microbiology for Rural Science
+BCHM341: BCHM341 Clinical Biochemistry and Cell Biology
+BCHM410: BCHM410 Introductory Molecular Biology and Biochemistry I
+BCHM420: BCHM420 Introductory Biochemistry II
+BCHM541: BCHM541 Clinical Biochemistry and Cell Biology
+BIOL110: BIOL110 Introduction to Biology: Cells and Life
+BIOL120: BIOL120 Organisms and the Diversity of Life
+BIOP320: BIOP320 Medical and Clinical Biotechnology
+BOTY202: BOTY202 Plant Physiology and Anatomy
+BOTY203: BOTY203 Plant Diversity
+BOTY302: BOTY302 Plant Function and Environment
+BOTY370: BOTY370 Mosses and Mushrooms - Cryptogam Diversity
+BOTY390: BOTY390 Field Botany
+BOTY505: BOTY505 Plant Responses to a Changing World
+BTEC310: BTEC310 Advanced Biotechnology
+BTEC510: BTEC510 Advanced Biotechnology
+BUS199: BUS199 Startup Development
+BUS202: BUS202 International Business
+BUS299: BUS299 Startup Activation
+BUS301: BUS301 Business and Economic Analysis of Chains and Networks
+BUS305: BUS305 Research Methods
+BUS381A: BUS381A Capstone Project
+BUS396: BUS396 Special Topic
+BUS399: BUS399 Innovation in Business
+BUS481C: BUS481C Dissertation
+BUS496: BUS496 Special Topic
+BUS500: BUS500 Communication for Professionals
+BUS501: BUS501 Business and Economic Analysis of Chains and Networks
+BUS502: BUS502 International Business
+BUS505: BUS505 Research Methods
+BUS581A: BUS581A Capstone Project
+BUS581B: BUS581B Research Project
+BUS581C: BUS581C Dissertation
+BUS592: BUS592 Master's Major Dissertation
+BUS594A: BUS594A Research Project
+BUS594B: BUS594B Major Research Project
+BUS596: BUS596 Special Topic
+BUS599: BUS599 Innovation in Business
+CANI310: CANI310 Wild Dog Ecology
+CHEM100: CHEM100 Introductory Chemistry
+CHEM110: CHEM110 Chemistry I
+CHEM120: CHEM120 Chemistry II
+CHEM204: CHEM204 Biological and Organic Chemistry
+CHEM210: CHEM210 Physical Chemistry: Quantum and Thermal Structure
+CHEM220: CHEM220 Inorganic Chemistry
+CHEM250: CHEM250 Analytical Chemistry
+CHEM302: CHEM302 Organic Synthesis and Catalysis
+CHEM303: CHEM303 Medicinal Chemistry
+CHEM305: CHEM305 Applied Physical and Materials Chemistry
+CHEM404: CHEM404 Biological and Organic Chemistry
+CHEM502: CHEM502 Organic Synthesis and Catalysis
+CHEM503: CHEM503 Medicinal Chemistry
+CHEM505: CHEM505 Applied Physical and Materials Chemistry
+CHIN101: CHIN101 Chinese Language 1A
+CHIN102: CHIN102 Chinese Language 1B
+CHIN201: CHIN201 Chinese Language 2A
+CHIN202: CHIN202 Chinese Language 2B
+CHIN211: CHIN211 Chinese Calligraphy
+CHIN304: CHIN304 Chinese Language 3A
+CHIN305: CHIN305 Intermediate Chinese: Listening
+CHIN310: CHIN310 Advanced Chinese: Writing
+CHIN350: CHIN350 Social Culture in Chinese Reading I
+CHIN370: CHIN370 Social Culture in Chinese Reading II
+CHIN410: CHIN410 Advanced Chinese: Writing
+CHIN550: CHIN550 Social Culture in Chinese Reading I
+CHIN570: CHIN570 Social Culture in Chinese Reading II
+CLAS401H: CLAS401H Classics Hons Coursework
+CLAS402H: CLAS402H Classics Hons Dissertation
+CLLA101: CLLA101 Introduction to Classical Languages
+CLLA102: CLLA102 Classical Languages Through Reading
+CLLA201: CLLA201 Intermediate Classical Languages
+CLLA202: CLLA202 Intermediate Classical Texts
+CLLA301: CLLA301 Advanced Classical Languages
+CLLA302: CLLA302 Advanced Classical Texts
+CLLA303: CLLA303 Classical Prose Texts
+CLLA304: CLLA304 Classical Verse Texts
+CLLA402: CLLA402 Advanced Classical Texts
+CLLA403: CLLA403 Classical Prose Texts
+CLLA404: CLLA404 Classical Verse Texts
+COMM101: COMM101 Screen Media
+COMM103: COMM103 Creative Industries
+COMM323: COMM323 Digital and Social Media
+COMM325: COMM325 Television Studies
+COMM332: COMM332 News and Journalism
+COMM381: COMM381 The Art of Documentary
+COMM382: COMM382 Hollywood Cinema
+COMM385: COMM385 Australian Screens
+COMM387: COMM387 Screen Adaptations: Rewiring the Text
+COMM389: COMM389 Human Rights on Screen
+COMM400H: COMM400H Honours in Media and Communications
+COMM523: COMM523 Digital and Social Media
+COMM525: COMM525 Television Studies
+COMM532: COMM532 News and Journalism
+COMM581: COMM581 The Art of Documentary
+COMM582: COMM582 Hollywood Cinema
+COMM585: COMM585 Australian Screens
+COMM587: COMM587 Screen Adaptations: Rewiring the Text
+COMM589: COMM589 Human Rights on Screen
+COSC101: COSC101 Software Development Studio 1
+COSC102: COSC102 Data Science Studio 1
+COSC110: COSC110 Introduction to Programming and the UNIX Environment
+COSC120: COSC120 Object Oriented Programming
+COSC130: COSC130 Fundamentals of Cybersecurity and Privacy
+COSC210: COSC210 Database Management Systems
+COSC220: COSC220 Software Development Studio 2
+COSC230: COSC230 Data Structures and Algorithms
+COSC240: COSC240 Operating Systems
+COSC250: COSC250 Functional and Reactive Programming
+COSC260: COSC260 Web Programming
+COSC301: COSC301 Special Topic in Computing
+COSC310: COSC310 Software Project Management
+COSC320: COSC320 Information Technology Project
+COSC330: COSC330 Parallel and Distributed Computing
+COSC331: COSC331 Machine Learning with Big Data
+COSC340: COSC340 Computer Networks and Network Security
+COSC350: COSC350 Artificial Intelligence
+COSC351: COSC351 Deep Learning
+COSC352: COSC352 Reinforcement Learning
+COSC360: COSC360 Advanced Web Programming
+COSC361: COSC361 Internet of Things
+COSC370: COSC370 User Experience and Interaction Design
+COSC372: COSC372 Management Information Systems
+COSC380: COSC380 Algorithms in Machine Learning
+COSC400: COSC400 Honours in Computer Science
+COSC481: COSC481 Cryptography
+COSC482: COSC482 Ethical Hacking
+COSC483: COSC483 Cybersecurity Risk and Project Management
+COSC484: COSC484 Cloud Security
+COSC510: COSC510 Software Project Management
+COSC530: COSC530 Parallel and Distributed Computing
+COSC531: COSC531 Machine Learning with Big Data
+COSC540: COSC540 Computer Networks and Network Security
+COSC550: COSC550 Artificial Intelligence
+COSC551: COSC551 Deep Learning
+COSC552: COSC552 Reinforcement Learning
+COSC560: COSC560 Advanced Web Programming
+COSC570: COSC570 User Experience and Interaction Design
+COSC572: COSC572 Management Information Systems
+COSC580: COSC580 Algorithms in Machine Learning
+COSC581: COSC581 Information Privacy
+COSC582: COSC582 Intrusion Detection
+COSC591: COSC591 Information Technology Project
+COSC592: COSC592 Masters Information Technology Project
+COSC593: COSC593 Computing Science/IT Thesis
+COSC594: COSC594 Information Technology Project: Proposal and Design
+COSC595: COSC595 Information Technology Project: Implementation
+COSC596: COSC596 Cybersecurity Project
+COTT202: COTT202 Cotton and the Environment
+COTT203: COTT203 Cotton Farm Systems and Technology Transfer
+COTT300: COTT300 Applied Cotton Production
+COTT301: COTT301 Cotton Crop Protection
+COTT402: COTT402 Cotton and the Environment
+COTT403: COTT403 Cotton Farm Systems and Technology Transfer
+COTT500: COTT500 Applied Cotton Production
+COTT501: COTT501 Cotton Crop Protection
+CRIM100: CRIM100 Understanding Crime
+CRIM101: CRIM101 The Criminal Justice System
+CRIM104: CRIM104 Deviance
+CRIM107: CRIM107 Victimology
+CRIM108: CRIM108 Drugs, Alcohol and Crime
+CRIM190: CRIM190 Crime in Rural Communities
+CRIM201: CRIM201 Researching Crime
+CRIM206: CRIM206 Equity and Justice?
+CRIM233: CRIM233 Serial Killers: Panic or Intrigue?
+CRIM234: CRIM234 Crime Prevention
+CRIM244: CRIM244 Criminological Perspectives
+CRIM294: CRIM294 Transnational and Organised Crime
+CRIM303: CRIM303 Crime, Media and Popular Culture
+CRIM304: CRIM304 Forensic Science within Criminal Justice
+CRIM305: CRIM305 Working with Offenders
+CRIM312: CRIM312 Professional Practice in Criminology
+CRIM314: CRIM314 Policing and Social Control
+CRIM324: CRIM324 Prisons and Punishment
+CRIM400H: CRIM400H Honours in Criminology
+CRIM401H: CRIM401H Criminology Hons Coursework
+CRIM402H: CRIM402H Criminology Hons Dissertation
+CSLT303: CSLT303 Business Skills for Agricultural Consultants
+CSLT402: CSLT402 Client Service Skills for Agricultural Consultants
+DCM401: DCM401 Global Cyber Security and Law
+DCM402: DCM402 Risk Analysis and Threat Management
+DCM403: DCM403 Big Data
+DCM404: DCM404 The Cyber Mindset
+DCM405: DCM405 Ethics and Decision Making
+DCM406: DCM406 People and Culture
+DCM510: DCM510 Finance for Managers
+DCM512: DCM512 Digital Operations and Project Management
+DCM513: DCM513 Business Strategy
+DCM514: DCM514 Leadership in Practice
+DCM515: DCM515 Entrepreneurship and Innovation
+DCM516: DCM516 Industry Project
+DM120: DM120 Digital Marketing Fundamentals
+DM220: DM220 Content Marketing
+DM221: DM221 Business Storytelling
+DM222: DM222 Digital Global Marketing
+DM223: DM223 Social Media Marketing
+DM224: DM224 Digital Retailing
+DM331: DM331 Artificial Intelligence in Marketing
+DM332: DM332 Digital Marketing Analytics
+DYPP100: DYPP100 Demonstrate Your Professional Preparation
+DYPP496: DYPP496 Special Topics in Professional Practice
+DYPP500A: DYPP500A Developing Your Professional Practice A
+DYPP500B: DYPP500B Developing Your Professional Practice B
+ECOL100: ECOL100 Ecology: Concepts and Applications
+ECOL203: ECOL203 Ecology - Populations to Ecosystems
+ECOL204: ECOL204 Ecological Methods
+ECOL307: ECOL307 Ecology of Plant Populations
+ECOL308: ECOL308 Aquatic Ecology
+ECOL311: ECOL311 Ecology of Australian Vegetation
+ECOL320: ECOL320 Conservation Genetics and Genomics
+ECOL511: ECOL511 Ecology of Australian Vegetation
+ECOL520: ECOL520 Molecular Ecology
+ECON101: ECON101 Introductory Microeconomics
+ECON102: ECON102 Introductory Macroeconomics
+ECON121: ECON121 Food Security and Environmental Scarcity
+ECON123: ECON123 Economics for Management
+ECON143: ECON143 Australian Economic Institutions and Performance
+ECON144: ECON144 The International Economy
+ECON201: ECON201 Intermediate Microeconomics
+ECON202: ECON202 Intermediate Macroeconomics
+ECON203: ECON203 Banking and Finance
+ECON221: ECON221 Food Security and Environmental Scarcity
+ECON223: ECON223 Farm and Resource Management
+ECON243: ECON243 Australian Economic Institutions and Performance
+ECON244: ECON244 The International Economy
+ECON271: ECON271 Introductory Econometrics
+ECON301: ECON301 Intermediate Microeconomics
+ECON311: ECON311 Contemporary Macroeconomic Issues
+ECON317: ECON317 International Trade and Finance
+ECON320: ECON320 International Political Economy
+ECON326: ECON326 Benefit-Cost Analysis
+ECON328: ECON328 Microeconomic Policy Evaluation
+ECON329: ECON329 Environmental and Natural Resource Economics
+ECON334: ECON334 Risk Management in Agribusiness
+ECON335: ECON335 Price Analysis in Food and Fibre Markets
+ECON345: ECON345 The Elephant and the Dragon: India and China in the Asian Century
+ECON371: ECON371 Introductory Econometrics
+ECON374: ECON374 Econometric Analysis of Financial Markets
+ECON376: ECON376 Applied Econometrics
+ECON377: ECON377 Efficiency and Productivity Analysis
+ECON390: ECON390 Economics of Development
+ECON405: ECON405 Banking and Finance
+ECON406: ECON406 Economics for Management
+ECON408: ECON408 Advanced Microeconomics
+ECON409: ECON409 Advanced Macroeconomics
+ECON417: ECON417 International Trade and Finance
+ECON420: ECON420 International Political Economy
+ECON428: ECON428 Microeconomic Policy Evaluation
+ECON429: ECON429 Environmental and Natural Resource Economics
+ECON434: ECON434 Risk Management in Agribusiness
+ECON435: ECON435 Price Analysis in Food and Fibre Markets
+ECON474: ECON474 Econometric Analysis of Financial Markets
+ECON520: ECON520 International Political Economy
+ECON526: ECON526 Benefit-Cost Analysis
+ECON576: ECON576 Applied Econometrics
+ECON577: ECON577 Efficiency and Productivity Analysis
+ECON590: ECON590 Economics of Development
+EDAE124: EDAE124 Creative Arts Curriculum Studies 1
+EDAE224: EDAE224 Creative Arts Curriculum Studies 2
+EDAE303: EDAE303 Creative Arts Key Learning Area
+EDAE315: EDAE315 Visual Arts and Children
+EDAE317: EDAE317 Drama Skills for Secondary Teachers
+EDAE336: EDAE336 Secondary Education: Drama 1
+EDAE337: EDAE337 Secondary Education: Drama 2
+EDAE395: EDAE395 Secondary Music Pedagogy Y7-10
+EDAE396: EDAE396 Secondary Music ICT
+EDAE397: EDAE397 Secondary Music Pedagogy Y11-12
+EDAE398: EDAE398 Research-Based Secondary Music Pedagogy
+EDAL516: EDAL516 Leadership for Learning
+EDAL517: EDAL517 Applying Leadership Mindsets
+EDAL518: EDAL518 Leadership for Learning Analysis
+EDAL519: EDAL519 Leadership for Inquiry and Innovation
+EDAL520: EDAL520 Reflective Practice Portfolio
+EDCX135: EDCX135 History of Australian Education
+EDCX177: EDCX177 Religion in Australia
+EDCX246: EDCX246 Society and Education
+EDCX301: EDCX301 Curriculum and the Social Context of Schooling
+EDCX302: EDCX302 Aboriginal Education: PrEx 20 days
+EDCX306: EDCX306 Pacific Education: Society, Culture and Schooling
+EDCX310: EDCX310 Learning in Social Movements
+EDCX313: EDCX313 Aboriginal Education
+EDCX335: EDCX335 History of Australian Education
+EDCX346: EDCX346 Sociology of Education
+EDCX377: EDCX377 Religion in Australia
+EDCX380: EDCX380 Innovations in Training and Development
+EDCX381: EDCX381 Best Practices in Workplace Education and Training
+EDCX502: EDCX502 Aboriginal Education: PrEx 20 days
+EDCX504: EDCX504 Aboriginal Education: PrEx 20 days
+EDCX509: EDCX509 Race Relations in the Classroom: Real and Virtual
+EDCX510: EDCX510 Learning in Social Movements
+EDCX513: EDCX513 Aboriginal Education
+EDCX528: EDCX528 Critical Perspectives in Indigenous Curriculum Inquiry
+EDEC102: EDEC102 Young Children's Resilience
+EDEC104: EDEC104 Children's Spaces and Places
+EDEC105: EDEC105 Pedagogy of Play
+EDEC106: EDEC106 Perspectives of Children and Childhood: PrEx 5 days
+EDEC201: EDEC201 Infant and Toddler Relationships: PrEx 10 days
+EDEC202: EDEC202 Enquirers into History-Geography: PrEx 10 days
+EDEC203: EDEC203 Authentic Assessment with Children: PrEx 5 days
+EDEC204: EDEC204 Early Childhood Learning Environments
+EDEC205: EDEC205 Integrating Curriculum
+EDEC206: EDEC206 Enquirers into History-Geography
+EDEC207: EDEC207 Authentic Assessment with Children: PrEx 10 days
+EDEC301: EDEC301 History of Early Childhood Education
+EDEC302: EDEC302 Early Childhood Theories and Philosophy
+EDEC303: EDEC303 Performing Arts
+EDEC304: EDEC304 Visual Arts
+EDEC305: EDEC305 Partnering with Families
+EDEC306: EDEC306 Home Learning Environment
+EDEC307: EDEC307 Emerging Language and Communication
+EDEC308: EDEC308 Plurilingual Pedagogies and Dialogic Reading
+EDEC310: EDEC310 Professionals in Early Childhood Education
+EDEC311: EDEC311 Play Pedagogies in Early Childhood Education
+EDEC312: EDEC312 Diversities in Play and Pedagogy
+EDEC313: EDEC313 Knowledge and Capabilities
+EDEC314: EDEC314 Health and Wellbeing
+EDEC315: EDEC315 Mathematics and Engineering in Early Childhood Education
+EDEC316: EDEC316 Young Children Discovering Multiliteracies
+EDEC317: EDEC317 Science and Technology in Early Childhood Education
+EDEC318: EDEC318 Leadership and Management in Early Childhood Education
+EDEC319: EDEC319 Early Childhood Professionals
+EDEC321: EDEC321 Young Children and the Creative Arts
+EDEC322: EDEC322 Young Children and the Creative Arts: PrEx 5 days
+EDEC323: EDEC323 Young Children and the Creative Arts: PrEx 10 days
+EDEC324: EDEC324 Leadership in Early Childhood: PrEx 5 days
+EDEC327: EDEC327 Children as Sustainable Scientists
+EDEC328: EDEC328 Children as Sustainable Scientists: PrEx 5 days
+EDEC333: EDEC333 Young Children as Communicators
+EDEC341: EDEC341 Growing Up Children: PrEx 10 days
+EDEC344: EDEC344 Families and Early Childhood Education
+EDEC345: EDEC345 Play in Learning Environments
+EDEC350: EDEC350 Literacy in the Early Years
+EDEC354: EDEC354 Young Children as Mathematicians
+EDEC355: EDEC355 Young Children as Mathematicians: PrEx 10 days
+EDEC371: EDEC371 Applying Theory to Practice
+EDEC372: EDEC372 Creative Arts (PrEx 10 days)
+EDEC373: EDEC373 Family and Community Contexts
+EDEC374: EDEC374 Fostering Emerging Language and Communication (PrEx 10 days)
+EDEC375: EDEC375 Play and Teaching Pedagogies (PrEx 20 days)
+EDEC376: EDEC376 Learning from Birth to 5 Years (PrEx 15 days)
+EDEC377: EDEC377 STEM in Early Childhood Education (PrEx 15 days)
+EDEC378: EDEC378 Professional Practice in Early Childhood Education (PrEx 10 days)
+EDEC382: EDEC382 Creative Arts
+EDEC384: EDEC384 Fostering Emerging Language and Communication
+EDEC387: EDEC387 STEM in Early Childhood Education
+EDEC388: EDEC388 Social Justice in Early Childhood Education
+EDEC391: EDEC391 Early Childhood Philosophy and Practice
+EDEC392: EDEC392 Early Education Philosophy and Practice: PrEx 15 days
+EDEC424: EDEC424 Leadership Interactions in Early Childhood
+EDEC434: EDEC434 Literacy in Early Childhood
+EDEC435: EDEC435 Literacy in Early Childhood: PrEx 10 days
+EDEC442: EDEC442 Children, Childhood and Contemporary Influences
+EDEC488: EDEC488 Young Children with Exceptional Development
+EDEE100: EDEE100 English Language in Use
+EDEE150: EDEE150 Introduction to English in the Primary Years
+EDEE212: EDEE212 English Teaching: Focus on Reading and Viewing
+EDEE250: EDEE250 English in the Primary Years: Focus on Teaching Early Reading
+EDEE300: EDEE300 Literacies and Numeracies in Context
+EDEE312: EDEE312 English Teaching: Focus on Writing and Creating
+EDEE321: EDEE321 Grammar and Text Types for the Secondary Classroom
+EDEE329: EDEE329 Primary English 2: Language, Literature, Literacy
+EDEE330: EDEE330 Secondary English Curriculum 1
+EDEE331: EDEE331 Secondary English Curriculum 2
+EDEE332: EDEE332 Secondary English Curriculum 3: Specialist Senior Studies
+EDEE333: EDEE333 Secondary English: Specialist Literature Studies
+EDEE350: EDEE350 English in the Primary Years: Working with Literature
+EDEE351: EDEE351 English in the Primary Years 1
+EDEE352: EDEE352 English in the Primary Years 2: Focus on Early Reading
+EDEE450: EDEE450 English in the Primary Years: Focus on Writing and Creating
+EDEE500: EDEE500 Literacies and Numeracies in Context
+EDEE528: EDEE528 Researching Literacies in Education
+EDEE553: EDEE553 English in the Primary Years 3: Focus on Writing and Creating
+EDIT100: EDIT100 Digital Literacy and Technologies Across the Curriculum: PrEx 10 days
+EDIT101: EDIT101 Digital Literacy and Technologies Across the Curriculum: PrEx 20 Days
+EDIT102: EDIT102 Technology for Inclusion
+EDIT124: EDIT124 Digital Literacy and Technologies Across the Curriculum
+EDIT301: EDIT301 Teaching Secondary Computing Studies: Foundation
+EDIT302: EDIT302 Teaching Secondary Computing Studies: Advanced
+EDIT313: EDIT313 Social and Collaborative Learning Technologies
+EDIT415: EDIT415 Leadership in Educational Technology
+EDIT425: EDIT425 Emerging Trends in Pedagogy and Practice
+EDIT426: EDIT426 Introduction to Learning with Technology
+EDIT502: EDIT502 Digital Literacy and Technologies in Education
+EDIT513: EDIT513 Inclusion and Access in Online Spaces
+EDIT517: EDIT517 Developing Learning Communities in Online Spaces
+EDIT518: EDIT518 Introduction to Learning Analytics
+EDIT521: EDIT521 Designing Effective Learning Experiences with Technology
+EDLA315: EDLA315 Teaching in a Bilingual Context: PrEx 20 days
+EDLA330: EDLA330 Teaching Languages in the Primary School
+EDLA385: EDLA385 Languages Teaching I
+EDLA386: EDLA386 Languages Teaching II
+EDLA387: EDLA387 Teaching English as an Additional Language or Dialect I
+EDLA388: EDLA388 Teaching English as an Additional Language or Dialect II
+EDLA410: EDLA410 Linguistics for Language Teachers
+EDLA487: EDLA487 Teaching English as an Additional Language or Dialect I
+EDLA488: EDLA488 Teaching English as an Additional Language or Dialect II
+EDLA489: EDLA489 Teaching Pronunciation
+EDLA503: EDLA503 Perspectives on Language, Society and Culture
+EDLA510: EDLA510 Linguistics for Language Teachers
+EDLA515: EDLA515 Teaching in a Bilingual Context
+EDLA523: EDLA523 Second Language Acquisition: Research into Practice
+EDLI502: EDLI502 TESOL I
+EDLI504: EDLI504 TESOL II
+EDLI505: EDLI505 TESOL IIA
+EDLT125: EDLT125 Evidence Based Learning and Teaching 1
+EDLT225: EDLT225 Evidence Based Learning and Teaching 2
+EDLT301: EDLT301 Planning for Effective Learning: PrEx 15 days
+EDLT302: EDLT302 Planning for Effective Learning: PrEx 20 days
+EDLT321: EDLT321 Talent Development in Mixed-ability Classes
+EDLT330: EDLT330 Learning, Assessment and Evaluation
+EDLT390: EDLT390 Advanced Learning Theory 1
+EDLT500: EDLT500 Planning for Effective Learning
+EDLT516: EDLT516 Instructional Designs and Cognitive Theories of Learning
+EDLT517: EDLT517 Educational Psychology in the School: Theories and Applied Practices
+EDLT518: EDLT518 Motivational Theories of Learning
+EDME145: EDME145 Primary Mathematics 1: Numeracy
+EDME334: EDME334 Current Innovations in Mathematics Education
+EDME340: EDME340 Mathematics for the Inclusive Classroom
+EDME358: EDME358 Primary Mathematics 2A: Space, Measurement and Number
+EDME369: EDME369 Primary Mathematics 2B: Statistics, Algebra and Number
+EDME392: EDME392 Junior Secondary Mathematics Education 7-10
+EDME393: EDME393 Junior Secondary Mathematical Investigations
+EDME394: EDME394 Senior Secondary Mathematics Education 11-12
+EDME395: EDME395 Senior Secondary Mathematical Investigations
+EDPE150: EDPE150 Sociocultural Foundations of Health and Physical Education
+EDPE247: EDPE247 Teaching Physical Education in Primary Schools
+EDPE314: EDPE314 Health and Physical Education in the Primary School
+EDPE343: EDPE343 Health Promotion in Schools and the Community
+EDPE346: EDPE346 Teaching Health Education in Primary Schools
+EDPE347: EDPE347 Secondary Education Sport Supervision
+EDRM501: EDRM501 Research Methods for Higher Degrees 1
+EDRM502: EDRM502 Research Methods for Higher Degrees 2
+EDSE101: EDSE101 Selected School Science Topics
+EDSE265: EDSE265 Design and Technology in the Primary Years
+EDSE312: EDSE312 Primary Environmental Science and Technology for Sustainability
+EDSE346: EDSE346 Secondary Education: Agricultural Technology 7-10
+EDSE347: EDSE347 Secondary Education: Agriculture 11-12
+EDSE353: EDSE353 STEM Education in the Middle Years
+EDSE357: EDSE357 Science Education 11-12: Pedagogies for Senior Science
+EDSE358: EDSE358 Science Education 11-12: Plan, Assess and Report
+EDSE359: EDSE359 Teaching Primary Science and Technology
+EDSE361: EDSE361 Science Education 7-10: Foundation for Teaching
+EDSE362: EDSE362 Science Education 7-10: Developing Professional Skills and Understanding
+EDSP100: EDSP100 Learning Difficulties and Disabilities: An Introduction
+EDSP102: EDSP102 The Twice Exceptional Student
+EDSP245: EDSP245 Development and Learning in Childhood and Adolescence
+EDSP300: EDSP300 Educating Students in Inclusive Environments
+EDSP323: EDSP323 Classroom Behaviour Management: PrEx 15 days
+EDSP324: EDSP324 Classroom Behaviour Management: PrEx 20 days
+EDSP325: EDSP325 Classroom Behaviour Management
+EDSP352: EDSP352 Positive Behavioural Support (Special and Inclusive Education)
+EDSP353: EDSP353 Applied Language and Literacy Development for Students with Special Needs
+EDSP354: EDSP354 Autism: Evidence Based Intervention
+EDSP385: EDSP385 Intervention for Literacy Difficulties in the Classroom
+EDSP387: EDSP387 Educational Intervention for Children with Learning Difficulties and Disabilities
+EDSP388: EDSP388 Educational Intervention for Students with Learning Difficulties and Disabilities: PrEx 20 days
+EDSP410: EDSP410 Inclusive Teaching: PrEx 30 Days
+EDSP411: EDSP411 Inclusive Teaching: PrEx 35 days
+EDSP412: EDSP412 Inclusive Teaching
+EDSP500: EDSP500 Educating Students in Inclusive Environments
+EDSP501: EDSP501 Assessment in Special and Inclusive Education Contexts
+EDSP502: EDSP502 Planning and Effective Teaching in Special and Inclusive Education Settings: PrEx 10 days
+EDSP505: EDSP505 Issues in Inclusive Education: International Perspectives
+EDSP510: EDSP510 Inclusive Teaching: PrEx 30 Days
+EDSP524: EDSP524 Classroom Behaviour Management: PrEx 20 days
+EDSP525: EDSP525 Classroom Behaviour Management: PrEx 20 days
+EDSP552: EDSP552 Positive Behavioural Support (Special and Inclusive Education)
+EDSP554: EDSP554 Autism: Evidence Based Intervention
+EDSS223: EDSS223 Humanities and Social Sciences in the Primary School 1
+EDSS311: EDSS311 Secondary Education: Society and Environment Curriculum 1
+EDSS312: EDSS312 Secondary Education: Society and Environment Curriculum 2
+EDSS321: EDSS321 Secondary Education: Business Studies, Commerce, Work Education
+EDSS322: EDSS322 Secondary Education: Economics, Commerce, Work Education
+EDSS323: EDSS323 Secondary Education: Geography
+EDSS324: EDSS324 Humanities and Social Sciences in the Primary School 2
+EDSS325: EDSS325 Secondary Education: Society and Culture
+EDSS326: EDSS326 Secondary Education: Legal Studies, Commerce
+EDSS327: EDSS327 Secondary Education: Studies of Religion
+EDSS329: EDSS329 Secondary Education: History
+EDSS375: EDSS375 Religious Education
+EDSS379: EDSS379 Primary School Society and Environment Teaching
+EDUC106: EDUC106 Teaching Development 1: Online PrEx 10 days
+EDUC206: EDUC206 Teaching Development 2: PrEx 15 days
+EDUC303: EDUC303 Teaching for Cultural Diversity - EAL/D Students
+EDUC304: EDUC304 Education for Sustainability in the Pacific
+EDUC306: EDUC306 Teaching Development 3: PrEx 20 days
+EDUC328: EDUC328 Investigating Education for Sustainability
+EDUC396: EDUC396 Special Topics in Education (A)
+EDUC397: EDUC397 Special Topics in Education (B)
+EDUC406: EDUC406 Teaching Development 4: The Graduate Teacher
+EDUC456: EDUC456 Reflective Practitioner 1
+EDUC457: EDUC457 Reflective Practitioner 2
+EDUC458: EDUC458 Reflective Practitioner: PrEx 30 Days
+EDUC496: EDUC496 Special Topics in Education (A)
+EDUC497: EDUC497 Special Topics in Education (B)
+EDUC503: EDUC503 Teaching for Cultural Diversity - EAL/D Students
+EDUC540: EDUC540 Classroom Management and Research: Online PrEx 10 days
+EDUC550: EDUC550 Research Project and Professional Experience: PrEx 20 days
+EDUC558: EDUC558 Reflective Practitioner: PrEx 30 Days
+EDUC596: EDUC596 Research Topic for Educators
+EDUC597: EDUC597 Research Project for Educators
+EDUC599B: EDUC599B Education Dissertation
+EDUC599C: EDUC599C Thesis at Masters Research Level A
+EDUC599D: EDUC599D Thesis at Masters Research Level B
+EDUC696B: EDUC696B Special Topics in Education
+EDUC696C: EDUC696C Special Topics in Education
+EDUC699D: EDUC699D Portfolio/Thesis at Doctorate Level
+EM311: EM311 Land Assessment for Sustainable Use
+EM312: EM312 Environmental Impact Assessment
+EM323: EM323 Wildlife Ecology and Management
+EM351: EM351 Ecosystem Rehabilitation
+EM353: EM353 Conservation Biology
+EM402: EM402 Catchment Science and Management
+EM510: EM510 Natural Resource Extension
+EM551: EM551 Ecosystem Rehabilitation
+EM553: EM553 Conservation Biology
+ENAB101: ENAB101 Preparation for University Studies
+ENAB102: ENAB102 Developing as a University Student
+ENGL101: ENGL101 Engaging with Literature
+ENGL102: ENGL102 Approaches to Literature and Society
+ENGL103: ENGL103 Introduction to Literature: Children's Books
+ENGL302: ENGL302 Gothic Fiction
+ENGL304: ENGL304 Imagining Fantasy Literature
+ENGL306: ENGL306 Science Fiction
+ENGL308: ENGL308 Graphic Novels as Literature
+ENGL309: ENGL309 Literary Cultures and Practices in English
+ENGL310: ENGL310 The Worlds of Children's Literature
+ENGL341: ENGL341 Renaissance Matters
+ENGL342: ENGL342 Perspectives on Shakespeare
+ENGL351: ENGL351 Victorian Literature and Culture
+ENGL372: ENGL372 Australia and Oceania in Literature
+ENGL381: ENGL381 Modern and Contemporary Literature
+ENGL382: ENGL382 Literature and the Environment
+ENGL384: ENGL384 Reading Crime
+ENGL390: ENGL390 Ways of Reading: Literary Theory
+ENGL400H: ENGL400H Honours in English
+ENGL502: ENGL502 Gothic Fiction
+ENGL504: ENGL504 Imagining Fantasy Literature
+ENGL506: ENGL506 Science Fiction
+ENGL508: ENGL508 Graphic Novels as Literature
+ENGL510: ENGL510 The Worlds of Children's Literature
+ENGL541: ENGL541 Renaissance Matters
+ENGL542: ENGL542 Perspectives on Shakespeare
+ENGL551: ENGL551 Victorian Literature and Culture
+ENGL572: ENGL572 Australia and Oceania in Literature
+ENGL581: ENGL581 Modern and Contemporary Literature
+ENGL582: ENGL582 Literature and the Environment
+ENGL584: ENGL584 Reading Crime
+ENGL590: ENGL590 Ways of Reading: Literary Theory
+ENGT237: ENGT237 Local Environmental Infrastructure
+ENSC111: ENSC111 Environment in Practice I
+ENSC220: ENSC220 Australian Aboriginal Sustainability Systems
+ENSC222: ENSC222 Environment in Practice II
+ENSC333: ENSC333 Environment in Practice III
+ENSC410: ENSC410 Techniques in Environmental Science
+ERS301: ERS301 Applied Research Skills in Environmental and Rural Science
+ERS381: ERS381 Special Topics and Projects in Environmental and Rural Science
+ERS501: ERS501 Applied Research Skills in Environmental and Rural Science
+ERS502: ERS502 Research Synthesis in Environmental and Rural Science
+ERS581: ERS581 Special Topics and Projects in Environmental and Rural Science
+ERS594: ERS594 Coursework Masters Thesis in Agricultural or Environmental Science
+EVOL211: EVOL211 Evolution and Biogeography
+EVOL301: EVOL301 Biological Systematics
+EXSC101: EXSC101 Monitoring Health and Sports Performance
+EXSC120: EXSC120 Orientation to Exercise and Sports Science
+EXSC210: EXSC210 Introductory Biomechanics
+EXSC220: EXSC220 Introductory Exercise Physiology
+EXSC230: EXSC230 Physical Activity and Health
+EXSC239: EXSC239 Motor Skill Acquisition and Performance
+EXSC260: EXSC260 Training for Physical Fitness
+EXSC310: EXSC310 Advanced Biomechanics
+EXSC322: EXSC322 Practicum in Exercise and Sport
+EXSC335: EXSC335 Motor Control and Human Development
+EXSC340: EXSC340 Advanced Exercise Physiology
+EXSC341: EXSC341 Clinical Exercise Physiology I
+EXSC342: EXSC342 Clinical Exercise Physiology II
+EXSC343: EXSC343 Clinical Exercise Physiology III
+EXSC360: EXSC360 Exercise and Health Assessment
+EXSC370: EXSC370 Exercise Prescription and Programming
+EXSC381: EXSC381 Clinical Exercise Physiology Practice I
+EXSC382: EXSC382 Clinical Exercise Physiology Practice II
+EXSC383: EXSC383 Clinical Exercise Physiology Practice III
+EXSC384: EXSC384 Clinical Exercise Physiology Practice IV
+EXSC390: EXSC390 Practicum with Clinical Populations
+FNDN300: FNDN300 Advanced Academic Skills and Professional English
+FNDN301: FNDN301 Advanced Academic Skills for Professional Contexts
+FPL113: FPL113 Investment Fundamentals and Financial Advice Principles
+FPL201: FPL201 Superannuation and Retirement Planning Strategies and Advice
+FPL212: FPL212 Insurance Advice, Risk Management and Estate Planning
+FPL304: FPL304 Social Security Advice
+FPL305: FPL305 Self-Managed Superannuation Funds
+FPL330: FPL330 Intergenerational Advice
+FPL340: FPL340 Aged Care Advice
+FPL350: FPL350 Behavioural Finance and Investment Portfolio Management
+FPL380: FPL380 Financial Advice Construction and Client Communication Simulation
+FPL413: FPL413 Investment Fundamentals and Financial Advice Principles
+FPL501: FPL501 Superannuation and Retirement Planning Strategies and Advice
+FPL512: FPL512 Insurance Advice, Risk Management and Estate Planning
+FPL550: FPL550 Behavioural Finance and Investment Portfolio Management
+FPL580: FPL580 Financial Advice Construction and Client Communication Simulation
+FREN101: FREN101 French Language 1A
+FREN102: FREN102 French Language 1B
+FREN201: FREN201 French Language 2A
+FREN202: FREN202 French Language 2B
+FREN204: FREN204 French Through Contemporary Culture
+FREN206: FREN206 French Cinema
+FREN301: FREN301 French Language 3A
+FREN302: FREN302 French Language 3B
+FREN306: FREN306 Women in French Texts
+FREN307: FREN307 Modernity Through French Literature and Visual Culture
+FREN308: FREN308 French Translation
+FREN506: FREN506 Women in French Texts
+FREN507: FREN507 Modernity Through French Literature and Visual Culture
+FREN508: FREN508 French Translation
+FSC102: FSC102 Fundamentals in Forensic Science
+FSC310: FSC310 Forensic and Analytical Chemistry
+FSC510: FSC510 Forensic and Analytical Chemistry
+GENE210: GENE210 Introductory Genetics
+GENE251: GENE251 Introduction to Breeding and Genetics
+GENE322: GENE322 Genetics of Populations
+GENE351: GENE351 Introduction to Breeding and Genetics
+GENE352: GENE352 Genomic Analysis and Bioinformatics
+GENE410: GENE410 Introductory Genetics
+GENE422: GENE422 Genetic Evaluation and Breeding Program Design
+GENE552: GENE552 Genomic Analysis and Bioinformatics
+GEOL110: GEOL110 Our Blue Planet
+GEOL120: GEOL120 Dynamic Earth
+GEOL123: GEOL123 Applied Geosciences I
+GEOL202: GEOL202 Introductory Palaeontology
+GEOL206: GEOL206 Field Mapping and Sedimentology
+GEOL207: GEOL207 Resource Geology and Environmental Issues
+GEOL208: GEOL208 Structural and Metamorphic Geology
+GEOL209: GEOL209 Mineralogy, Petrology and Geochemistry
+GEOL210: GEOL210 Dinosaurs!
+GEOL223: GEOL223 Applied Geosciences II
+GEOL305: GEOL305 Ore Deposit Geology
+GEOL311: GEOL311 Palaeontology and Stratigraphy
+GEOL313: GEOL313 Environmental Geology
+GEOL314: GEOL314 Geological Field Mapping
+GEOL315: GEOL315 Vertebrate Palaeontology
+GEOL316: GEOL316 Global Tectonics
+GEOL318: GEOL318 Earth Materials: Atoms, Exploration and the Environment
+GEOL323: GEOL323 Applied Geosciences III
+GEPL106: GEPL106 Earth Surface Systems
+GEPL111: GEPL111 Earth in Crisis?
+GEPL112: GEPL112 Where in the World? Australia's Human Geography
+GEPL121: GEPL121 Introduction to Planning History and Theory
+GEPL122: GEPL122 Introduction to Plan Making
+GEPL124: GEPL124 Planning for Land Use and Built Form
+GEPL301: GEPL301 Economic Change and Urban Development
+GEPL302: GEPL302 Architecture and Urban Design
+GEPL306: GEPL306 Water in the Environment
+GEPL307: GEPL307 Climate Change and Future Planning
+GEPL308: GEPL308 Environmental Change in Australia
+GEPL309: GEPL309 Natural Hazards
+GEPL311: GEPL311 Catchment to Coast
+GEPL312: GEPL312 Integrated Research Project in Geographical Sciences
+GEPL315: GEPL315 Uncertainty, Science and Policy-Making
+GEPL316: GEPL316 Urban Living
+GEPL320: GEPL320 Principles of Development Control
+GEPL321: GEPL321 Population, Health and Environment
+GEPL322: GEPL322 Cradle to Grave: Population Geography
+GEPL324: GEPL324 Rural Planning and Resource Management
+GEPL328: GEPL328 Planning Theory and Practice
+GEPL335: GEPL335 Environmental Planning and Administration
+GEPL338: GEPL338 Understanding Research
+GEPL341: GEPL341 Environmental Biogeography
+GEPL345: GEPL345 Regional Development: Processes and Policies
+GEPL350: GEPL350 Transport and Land Use Planning
+GEPL359: GEPL359 Introduction to Architectural Design
+GEPL361: GEPL361 Community Planning and Participation
+GEPL370: GEPL370 Place-making for People and the Environment
+GEPL390: GEPL390 Planning Policy for Hazards
+GEPL401: GEPL401 Economic Change and Urban Development
+GEPL402: GEPL402 Architecture and Urban Design
+GEPL407: GEPL407 Climate Change and Future Planning
+GEPL409: GEPL409 Natural Hazards
+GEPL415: GEPL415 Uncertainty, Science and Policy-Making
+GEPL420: GEPL420 Principles of Development Control
+GEPL445: GEPL445 Regional Development: Processes and Policies
+GEPL450: GEPL450 Transport and Land Use Planning
+GEPL454: GEPL454 Special Reading Unit in Planning
+GEPL455: GEPL455 Dissertation
+GEPL457: GEPL457 Dissertation
+GEPL490: GEPL490 Planning Policy for Hazards
+GEPL491: GEPL491 Integrated Planning Practice 1
+GEPL492: GEPL492 Integrated Planning Practice 2
+GEPL500: GEPL500 Masters Dissertation
+GEPL501: GEPL501 Economic Change and Urban Development
+GEPL502: GEPL502 Architecture and Urban Design
+GEPL506: GEPL506 Water in the Environment
+GEPL508: GEPL508 Environmental Change in Australia
+GEPL511: GEPL511 Catchment to Coast
+GEPL520: GEPL520 Principles of Development Control
+GEPL521: GEPL521 Population, Health and Environment
+GEPL528: GEPL528 Planning Theory and Practice
+GEPL535: GEPL535 Environmental Planning and Administration
+GEPL538: GEPL538 Applied Research Methods
+GEPL541: GEPL541 Environmental Biogeography
+GEPL545: GEPL545 Regional Development: Processes and Policies
+GEPL550: GEPL550 Transport and Land Use Planning
+GEPL570: GEPL570 Place-making for People and the Environment
+GEPL590: GEPL590 Planning Policy for Hazards
+GISC331: GISC331 Spatial Data Capture and Image Interpretation
+GISC334: GISC334 Introduction to GIS and Spatial Thinking
+GISC433: GISC433 Spatial Analysis and Modelling
+GISC436: GISC436 Remote Sensing and Image Analysis
+GRMN101: GRMN101 German Language 1A
+GRMN102: GRMN102 German Language 1B
+GRMN201: GRMN201 German Language 2A
+GRMN202: GRMN202 German Language 2B
+GRMN210: GRMN210 German Reading Skills
+GRMN307: GRMN307 German Language 3A
+GRMN308: GRMN308 German Language 3B
+GRMN309: GRMN309 German Conversational Skills: Listening, Speaking and Pronunciation
+GRMN310: GRMN310 Beyond "Inspector Rex": German Crime Fiction
+GRMN311: GRMN311 "Es war einmal..." - German Children's Literature
+GRMN503: GRMN503 Contemporary German Short Stories
+GRMN504: GRMN504 Contemporary German Film
+GRMN511: GRMN511 "Es war einmal..." - German Children's Literature
+GRNS300: GRNS300 Agronomy of Grains Production
+GRNS301: GRNS301 Grain Crop Protection
+GRNS500: GRNS500 Agronomy of Grains Production
+GRNS501: GRNS501 Grain Crop Protection
+HASS100: HASS100 Foundations of Academic Research
+HASS101: HASS101 Controversies: Foundations of Critical Social Analysis
+HASS102: HASS102 Special Project in Humanities, Arts and Social Sciences
+HASS301: HASS301 Research and Professional Practice Project
+HASS400H: HASS400H Honours in Humanities, Arts and Social Sciences
+HASS500: HASS500 The Foundations of Research
+HASS505: HASS505 Reading Unit
+HASS506: HASS506 Research Project
+HASS512: HASS512 Major Research Project
+HASS518: HASS518 Dissertation
+HDCM314: HDCM314 Optimising Outcomes in Complex Case Management
+HDCW114: HDCW114 Introductory Client Centred Casework
+HDCW125: HDCW125 Foundations of Community Work
+HDCW126: HDCW126 Children and Young People at Risk
+HDCW213: HDCW213 Case Management in Community Services
+HDEV201: HDEV201 Introduction to Human Development
+HDEV401: HDEV401 Introduction to Human Development
+HDHP111: HDHP111 The Human Body in Health and Illness
+HHSC111: HHSC111 Science for Nurses 1
+HHSC112: HHSC112 Science for Nurses 2
+HINQ100: HINQ100 What is History?
+HINQ101: HINQ101 The Historian
+HINQ200: HINQ200 History: Uses and Abuses
+HINQ201: HINQ201 Researching and Applying History
+HINQ301: HINQ301 Indigenous Heritage Management
+HINQ302: HINQ302 Researching the Past in the Digital Age
+HINQ303: HINQ303 Making Museums Digital
+HINQ501: HINQ501 Researching and Applying History
+HINQ503: HINQ503 Making Museums Digital
+HIST111: HIST111 Medieval Europe
+HIST113: HIST113 Early Modern Europe: From Reformation to Revolution
+HIST150: HIST150 Colonial Australia
+HIST151: HIST151 Modern Australia
+HIST300: HIST300 Sex, Sin, and Heresy in Early Medieval Europe
+HIST301: HIST301 Power and Propaganda in the European Reformations
+HIST303: HIST303 Witch Hunting, 1400-1700
+HIST308: HIST308 Crusader Europe, 1095-1453
+HIST310: HIST310 Being Bad: Sinners, Crooks, Deviants and Psychos
+HIST313: HIST313 Liberty and Democracy in the British World, 1780-1860
+HIST324: HIST324 Ashes to Ashes: Weimar and Nazi Germany, 1918-1945
+HIST328: HIST328 Modern Europe in War and Peace: 1918 to Yesterday
+HIST329: HIST329 Australia and the World: An International History
+HIST330: HIST330 Local and Community History
+HIST331: HIST331 War and Australian Society in the 20th Century
+HIST333: HIST333 Waking the Dead: Death, Burials and Memorials
+HIST335: HIST335 Heritage Conservation
+HIST336: HIST336 Blood and Guts: The History of Medical Practice
+HIST337: HIST337 History and Museums
+HIST338: HIST338 Australian Frontiers: Rural and Regional Histories
+HIST339: HIST339 The Family in History
+HIST351: HIST351 Convict Australia
+HIST354: HIST354 Aboriginal History Since the Late 18th Century
+HIST357: HIST357 War, Nations and Empires: Modern Europe, 1789-1914
+HIST363: HIST363 The First World War, 1914-1918: History and Memory
+HIST368: HIST368 The Swinging Sixties: The Global 1960s
+HIST369: HIST369 The Spanish Empire, 1474-1700: Rise and Decline
+HIST373: HIST373 Australian Architecture, Buildings and Lifestyles, 1788-1988
+HIST376: HIST376 Oral History
+HIST400H: HIST400H Honours in History
+HIST430: HIST430 Local and Community History
+HIST438: HIST438 Australian Frontiers: Rural and Regional Histories
+HIST500: HIST500 Sex, Sin, and Heresy in Early Medieval Europe
+HIST501: HIST501 Power and Propaganda in the European Reformations
+HIST503: HIST503 Witch Hunting, 1400-1700
+HIST508: HIST508 Crusader Europe, 1095-1453
+HIST510: HIST510 Massacre and Genocide: Histories of Atrocity
+HIST511: HIST511 Crime, Incarceration, Servitude: Historical Views
+HIST513: HIST513 Empires and Imperialism in History
+HIST517: HIST517 Mr Punch's Britain! A Cartoon History - 1841-1914
+HIST529: HIST529 Australia and the World: An International History
+HIST531: HIST531 War and Australian Society in the 20th Century
+HIST533: HIST533 Waking the Dead: Death, Burials and Memorials
+HIST535: HIST535 Heritage Conservation
+HIST536: HIST536 Blood and Guts: The History of Medical Practice
+HIST537: HIST537 History and Museums
+HIST539: HIST539 The Family in History
+HIST547: HIST547 Asia Decolonised?
+HIST551: HIST551 Convict Australia
+HIST554: HIST554 Imagining Australia: Empire, Nation, Sovereignty
+HIST556: HIST556 Public History
+HIST569: HIST569 The Spanish Empire, 1474-1700: Rise and Decline
+HIST573: HIST573 Australian Architecture, Buildings and Lifestyles, 1788-1988
+HIST576: HIST576 Oral History
+HIST595: HIST595 Understanding History
+HLTH101: HLTH101 Information and Evidence in Health and Social Care
+HLTH102: HLTH102 Interprofessional Practice in Health and Social Care
+HLTH103: HLTH103 Communication for Health Professionals
+HLTH104: HLTH104 The Context of the Health and Community Services
+HLTH201: HLTH201 Community Services Fieldwork 1
+HLTH301: HLTH301 Community Services Fieldwork 2
+HLTH305: HLTH305 Capstone Project
+HLTH310: HLTH310 Foundations for Mental Health Practice
+HLTH325: HLTH325 Assessment and Management of Issues with Substance Use and Dependence
+HLTH340: HLTH340 Perspectives on Ageing
+HLTH405: HLTH405 Capstone Project
+HLTH421: HLTH421 Foundational Mental Health Assessment Skills
+HLTH422: HLTH422 Introduction to Mental Health Care
+HLTH423: HLTH423 Focused Psychological Strategies in Mental Health
+HLTH424: HLTH424 Mental Health Promotion
+HLTH425: HLTH425 Assessment and Management of Issues with Substance Use and Dependence
+HLTH426: HLTH426 Child and Adolescent Mental Health
+HLTH427: HLTH427 Mental Health and Older Adults
+HLTH428: HLTH428 Aboriginal and Torres Strait Islander Mental Health and Wellbeing
+HLTH430: HLTH430 Introduction to Public Health (One Health)
+HLTH431: HLTH431 Health Promotion, Protections, Disease and Control
+HLTH432: HLTH432 Biostatistics
+HLTH499: HLTH499 Bachelor Honours Thesis
+HLTH500: HLTH500 Foundations of Inquiry in Health and Social Care
+HLTH501: HLTH501 Methods for Inquiry in Health and Social Care
+HLTH510: HLTH510 Foundations for Mental Health Practice
+HLTH554A: HLTH554A Capstone Project
+HLTH558A: HLTH558A Independent Practice Project 2
+HLTH599C: HLTH599C Masters Thesis
+HLTH599D: HLTH599D Masters Thesis
+HORT420: HORT420 Horticultural Science and Management
+HORT510: HORT510 Advanced Horticulture
+HS322: HS322 Complementary Therapies in the Health Care System
+HSCS240: HSCS240 Working with the impact of Trans-generational Violence on our First Nations families and Communities
+HSCS256: HSCS256 Intergenerational Loss and Trauma in First Nations People
+HSCS261: HSCS261 Child and Adolescent Development in First Nations Context
+HSCS262: HSCS262 Working with the impacts of Addiction on First Nation peoples, Families and Communities
+HSCS333: HSCS333 Group Work: Theory and Process
+HSCS335: HSCS335 The Skilled Counsellor
+HSCS338: HSCS338 Case Conceptualisation
+HSCS372: HSCS372 Child and Adolescent Counselling
+HSCS374: HSCS374 Counselling for Loss and Grief
+HSCS435: HSCS435 The Skilled Counsellor
+HSCS441: HSCS441 Field Placement and Supervision
+HSCS452: HSCS452 Applied Counselling Theories
+HSCS472: HSCS472 Child and Adolescent Counselling
+HSCS474: HSCS474 Counselling for Loss and Grief
+HSCS478: HSCS478 Counselling for Trauma
+HSCS533: HSCS533 Group Work: Theory and Process
+HSCS536: HSCS536 Working Systemically in Therapy
+HSCS538: HSCS538 Case Conceptualisation
+HSCS550: HSCS550 Supervision Theory and Practice
+HSHM200: HSHM200 Leadership, Teams and Decision-Making
+HSHM218: HSHM218 Assessment and Management of Challenging Behaviours
+HSHM250: HSHM250 Chronic Health Issues
+HSHM305: HSHM305 Law, Ethics, Advocacy and Health Care
+HSHM343: HSHM343 Health Information Management
+HSHM345: HSHM345 Community Analysis and Health Care Planning
+HSHM349: HSHM349 Management Issues and Practices
+HSHM368: HSHM368 Living with Disability in Contemporary Society
+HSHM500: HSHM500 Leadership in Healthcare
+HSHM502: HSHM502 Developing and Implementing Policy in Healthcare
+HSHM506: HSHM506 Legal Foundations of Healthcare Management
+HSHM512: HSHM512 Systems in Australian Healthcare
+HSHM519: HSHM519 Facilitating Collaboration in Healthcare
+HSHM521: HSHM521 Financial Management in Healthcare
+HSHM531: HSHM531 Epidemiological Evidence for Managerial Decision Making
+HSHM543: HSHM543 Information and Knowledge Management in Healthcare
+HSHM544: HSHM544 Safety and Quality in Healthcare
+HSHM546: HSHM546 Managing Quality, Risk and Cost in Health Care Services
+HSHM548: HSHM548 Meeting Challenges of the Health Workforce
+HSNS170: HSNS170 Frameworks for Nursing Practice
+HSNS171: HSNS171 Fundamentals of Nursing Practice 1
+HSNS173: HSNS173 Fundamentals of Nursing Practice 2
+HSNS207: HSNS207 Foundations of Nursing in the Australian Context
+HSNS246: HSNS246 Integrated Nursing Practice 5: Primary and Community Health Care
+HSNS247: HSNS247 Nursing in Primary and Community Health Care
+HSNS262: HSNS262 Nursing Practice: Building Integrated Care
+HSNS263: HSNS263 Integrated Nursing Practice 1
+HSNS264: HSNS264 Integrated Nursing Practice 2
+HSNS265: HSNS265 Nursing Practice: Models of Integrated Care
+HSNS270: HSNS270 Integrated Nursing Practice 4
+HSNS273: HSNS273 Integrated Nursing Practice 6
+HSNS310: HSNS310 Integrated Nursing Practice 3: Mental Health Nursing
+HSNS361: HSNS361 Professional Practice: Application of Integrated Care Therapies
+HSNS362: HSNS362 Transforming Nursing Practice 1
+HSNS363: HSNS363 Transforming Nursing Practice 2
+HSNS364: HSNS364 Professional Practice: Application of Integrated Care
+HSNS367: HSNS367 Nursing Practice: Complex Integrated Care
+HSNS368: HSNS368 Professional Practice: Contexts of Acute Care
+HSNS370: HSNS370 Transforming Nursing Practice 3: Nursing Older People
+HSNS373: HSNS373 Transitioning to Practice 1
+HSNS374: HSNS374 Clinical Leadership and Governance in Nursing
+HSNS376: HSNS376 Transitioning to Practice 2
+HSNS447: HSNS447 Nursing in Primary and Community Health Care
+HSNS510: HSNS510 Integrated Nursing Practice 3: Mental Health Nursing
+HSNS565: HSNS565 Professional Practice: Preparation for Practice
+HSNS576: HSNS576 Transitioning to Practice 2
+HSSW102: HSSW102 Foundations of Social Work Practice
+HSSW105: HSSW105 Social Work Through the LifeSpan
+HSSW105B: HSSW105B Social Work Through the LifeSpan B
+HSSW111: HSSW111 Social Work in Practice One
+HSSW168: HSSW168 Responding to Disability and Ageing
+HSSW222: HSSW222 Social Work in Practice Two
+HSSW300: HSSW300 Disadvantage and Service Provision
+HSSW300B: HSSW300B Disadvantage and Service Provision B
+HSSW301: HSSW301 Social Work Direct Practice Skills
+HSSW301B: HSSW301B Social Work Direct Practice Skills B
+HSSW303: HSSW303 Rural Social Work
+HSSW304: HSSW304 Juvenile Justice and Child Protection
+HSSW305: HSSW305 Social Work Through the LifeSpan
+HSSW306: HSSW306 Community Development Practice
+HSSW307: HSSW307 Suicide Prevention, Intervention and Postvention
+HSSW308: HSSW308 Research Methods for Human Services
+HSSW310: HSSW310 BSW Fieldwork 1
+HSSW311: HSSW311 Groups and Communities
+HSSW333: HSSW333 Social Work in Practice Three
+HSSW400: HSSW400 Disadvantage and Service Provision
+HSSW400B: HSSW400B Disadvantage and Service Provision B
+HSSW401: HSSW401 Social Work Direct Practice Skills
+HSSW401B: HSSW401B Social Work Direct Practice Skills B
+HSSW401H: HSSW401H Social Work Honours 1
+HSSW402H: HSSW402H Social Work Honours 2
+HSSW403H: HSSW403H Social Work Honours 2 B
+HSSW410: HSSW410 Social Work Intervention Models and Skills
+HSSW410B: HSSW410B Social Work Intervention Models and Skills B
+HSSW411: HSSW411 BSW Fieldwork 2
+HSSW413: HSSW413 Human Rights, the Law and Social Justice
+HSSW444: HSSW444 Social Work in Practice Four
+HSSW450: HSSW450 Fieldwork 1
+HSSW504: HSSW504 Juvenile Justice and Child Protection
+HSSW507: HSSW507 Suicide Prevention, Intervention and Postvention
+HSSW510: HSSW510 Social Work Intervention Models and Skills
+HSSW510B: HSSW510B Social Work Intervention Models and Skills B
+HSSW511: HSSW511 Groups and Communities
+HSSW513: HSSW513 Human Rights, the Law and Social Justice
+HSSW550: HSSW550 Fieldwork 2
+HSSW555: HSSW555 Social Work in Practice Five
+HSSW655: HSSW655 Social Work in Practice Six
+HUMN240: HUMN240 Issues in Human Nutrition
+ICLU300: ICLU300 In-Country Language Unit
+ICT100: ICT100 Computational Thinking
+ICT101: ICT101 From Logic to Data Processing
+ICT363: ICT363 Embedded Systems and Sensors
+INDN101: INDN101 Indonesian Language 1A
+INDN102: INDN102 Indonesian Language 1B
+INDN201: INDN201 Indonesian Language 2A
+INDN202: INDN202 Indonesian Language 2B
+INDN301: INDN301 Indonesian Language 3A
+INDN302: INDN302 Indonesian Language 3B
+INDN315: INDN315 Contemporary Indonesian Culture
+INDN330: INDN330 A History of Indonesian and its Role in Society
+INDN331: INDN331 Islam, Society and the State in Contemporary Indonesia
+INDN441: INDN441 Contemporary Issues in Indonesian Culture and Society
+INDN530: INDN530 A History of Indonesian and its Role in Society
+INDN531: INDN531 Islam, Society and the State in Contemporary Indonesia
+INDN541: INDN541 Contemporary Issues in Indonesian Culture and Society
+INK101: INK101 Indigenous Perspectives across Creative Industries
+ITAL101: ITAL101 Italian Language 1A
+ITAL102: ITAL102 Italian Language 1B
+ITAL201: ITAL201 Italian Language 2A
+ITAL202: ITAL202 Italian Language 2B
+ITAL203: ITAL203 Introduction to Contemporary Italy
+ITAL205: ITAL205 Introduction to the Italian Renaissance
+ITAL301: ITAL301 Italian Language 3A
+ITAL302: ITAL302 Italian Language 3B
+ITAL304: ITAL304 Modern Italian Novel
+ITAL311: ITAL311 The Crowns of Italian Literature: Dante, Petrarch and Boccaccio
+ITAL409: ITAL409 Italian Renaissance Literature
+ITAL414: ITAL414 Grandeur and Decline: The Novel in Sicily
+ITAL416: ITAL416 20th Century Women Writers in Italy
+ITAL417: ITAL417 The Italian Detective Novel
+ITAL504: ITAL504 Modern Italian Novel
+ITAL509: ITAL509 Italian Renaissance Literature
+ITAL511: ITAL511 The Crowns of Italian Literature: Dante, Petrarch and Boccaccio
+ITAL514: ITAL514 Grandeur and Decline: The Novel in Sicily
+ITAL516: ITAL516 20th Century Women Writers in Italy
+ITAL517: ITAL517 The Italian Detective Novel
+JAPN101: JAPN101 Japanese Language 1A
+JAPN102: JAPN102 Japanese Language 1B
+JAPN201: JAPN201 Japanese Language 2A
+JAPN202: JAPN202 Japanese Language 2B
+JAPN215: JAPN215 Introduction to Japanese Language in Society
+JAPN235: JAPN235 Extensive Reading in Japanese
+JAPN301: JAPN301 Japanese Language 3A
+JAPN302: JAPN302 Japanese Language 3B
+JAPN322: JAPN322 Japanese Through Contemporary Culture
+JAPN345: JAPN345 Introduction to Japanese Popular Culture
+JAPN400H: JAPN400H Honours in Japanese
+JAPN412: JAPN412 Written Japanese
+JAPN421: JAPN421 Exploring Japanese Language in Society
+JAPN521: JAPN521 Exploring Japanese Language in Society
+JAPN522: JAPN522 Japanese Through Contemporary Culture
+LANG100: LANG100 Strategies and Approaches to Language Learning
+LANG103: LANG103 Developing Modern Languages Conversational Skills
+LANG301: LANG301 Professional Portfolio in Translation
+LAW100: LAW100 Foundations of Law
+LAW101: LAW101 Law in Context
+LAW102: LAW102 Legal Professional Skills
+LAW131: LAW131 Torts Law
+LAW157: LAW157 Alternative Dispute Resolution
+LAW162: LAW162 Criminal Law
+LAW164: LAW164 Law and First Peoples of Australia
+LAW172: LAW172 Contract Law
+LAW201: LAW201 Sports Law
+LAW206: LAW206 Corporate Social Responsibility and the Law
+LAW207: LAW207 Water Law and Governance
+LAW250: LAW250 Elder Law
+LAW260: LAW260 World Legal Systems
+LAW261: LAW261 Criminal Procedure
+LAW270: LAW270 Interviewing for Advocacy
+LAW283: LAW283 Property Law
+LAW301: LAW301 Succession
+LAW306: LAW306 Law Experiential Learning
+LAW308: LAW308 Employment Law
+LAW310: LAW310 Civil Dispute Resolution
+LAW313: LAW313 Evidence and Proof
+LAW314: LAW314 Advanced Criminal Law
+LAW315: LAW315 Criminal Sentencing and Punishment
+LAW316: LAW316 Commonwealth Criminal Law
+LAW318: LAW318 Law of the Sea
+LAW319: LAW319 Children's Law
+LAW320: LAW320 Professional Conduct
+LAW321: LAW321 Conveyancing
+LAW323: LAW323 Intellectual Property Law
+LAW325: LAW325 International Trade Law
+LAW326: LAW326 Human Rights
+LAW336: LAW336 Local Government Law
+LAW338: LAW338 Biotechnology Law
+LAW339: LAW339 Law and Neuroscience
+LAW340: LAW340 Equity and Trusts
+LAW341: LAW341 Environmental Law
+LAW342: LAW342 Medico-Legal Issues
+LAW343: LAW343 Contemporary Issues in Health Law
+LAW345: LAW345 Animal Law
+LAW346: LAW346 Law and Crisis: The Use of Emergency Powers
+LAW349: LAW349 International Environmental Law
+LAW351: LAW351 Corporations Law
+LAW352: LAW352 Taxation Law
+LAW358: LAW358 Natural Resources Law
+LAW359: LAW359 Advanced Torts
+LAW361: LAW361 International Law
+LAW364: LAW364 Native Title Law and Policy
+LAW365: LAW365 Gender and the Law
+LAW366: LAW366 Social Media and the Law
+LAW370: LAW370 Family Law
+LAW375: LAW375 Australian Competition and Consumer Law
+LAW379: LAW379 Commercial Law
+LAW391: LAW391 International Criminal Law
+LAW395: LAW395 Special Studies in Law (C)
+LAW396: LAW396 Special Studies in Law (A)
+LAW397: LAW397 Special Studies in Law (B)
+LAW399: LAW399 Constitutional Law
+LAW400: LAW400 Administrative Law
+LAW455: LAW455 Jurisprudence
+LAW480: LAW480 Remedies and Advanced Legal Skills
+LAW490: LAW490 Honours in Law
+LAW493: LAW493 Advanced Taxation Law
+LAW499: LAW499 Technology and the Law
+LING101: LING101 Introduction to Linguistics
+LING102: LING102 Foundations of Linguistics
+LING150: LING150 Communicating in Culturally Diverse Contexts
+LING244: LING244 Language and the Law
+LING304: LING304 Language Acquisition
+LING305: LING305 Meaning in Language
+LING350: LING350 Communicating in Culturally Diverse Contexts
+LING353: LING353 The English Language
+LING365: LING365 Phonetics and Phonology
+LING366: LING366 Australia's Indigenous Languages
+LING369: LING369 Morphology and Syntax
+LING371: LING371 Sociolinguistics and Language Ecology
+LING381: LING381 Writing Systems of the World
+LING400H: LING400H Honours in Linguistics
+LING450: LING450 The Design of Language
+LING451: LING451 Introduction to Applied Linguistics
+LING504: LING504 Language Acquisition
+LING505: LING505 Meaning in Language
+LING544: LING544 Language and the Law
+LING550: LING550 The Design of Language
+LING551: LING551 Introduction to Applied Linguistics
+LING552: LING552 Intercultural Communication
+LING553: LING553 The English Language
+LING561: LING561 Research Methods in Applied Linguistics
+LING564: LING564 First Language and Literacy Acquisition
+LING565: LING565 Phonetics and Phonology
+LING566: LING566 Australia's Indigenous Languages
+LING567: LING567 Applied Linguistics Research Practice
+LING569: LING569 Morphology and Syntax
+LING571: LING571 Sociolinguistics and Language Ecology
+LING572: LING572 Multilingual Approaches to TESOL
+LING581: LING581 Writing Systems of the World
+LING599: LING599 Dissertation in Linguistics or Applied Linguistics
+LLM450: LLM450 Elder Law
+LLM457: LLM457 Alternative Dispute Resolution
+LLM465: LLM465 Introduction to Transition and Succession Planning
+LLM500: LLM500 Research Methodology and Theory
+LLM501: LLM501 Australian Competition and Consumer Law
+LLM502: LLM502 Contemporary Issues in Constitutional Law
+LLM504: LLM504 Securities and Financial Services Law
+LLM506: LLM506 Law Experiential Learning
+LLM508: LLM508 Employment Law
+LLM510: LLM510 Medical Ethics and Law
+LLM511: LLM511 Succession
+LLM512: LLM512 Global Law
+LLM514: LLM514 Advanced Criminal Law
+LLM515: LLM515 Criminal Sentencing and Punishment
+LLM516: LLM516 Commonwealth Criminal Law
+LLM518: LLM518 Law of the Sea
+LLM519: LLM519 Children's Law
+LLM520: LLM520 LLM Research Topic
+LLM521: LLM521 Sports Law
+LLM522: LLM522 LLM Major Dissertation
+LLM523: LLM523 Intellectual Property Law
+LLM525: LLM525 International Trade Law
+LLM526: LLM526 Human Rights
+LLM528: LLM528 Governance of Natural Resources
+LLM529: LLM529 Sustainability Strategies
+LLM533: LLM533 Fundamentals of Australia's Common Law System
+LLM535: LLM535 Human Rights Protection In Europe
+LLM536: LLM536 European Union Law
+LLM538: LLM538 Biotechnology Law
+LLM539: LLM539 Law and Neuroscience
+LLM541: LLM541 Environmental Law
+LLM543: LLM543 Contemporary Issues in Health Law
+LLM545: LLM545 Animal Law
+LLM546: LLM546 Law and Crisis: The Use of Emergency Powers
+LLM549: LLM549 International Environmental Law
+LLM556: LLM556 Corporate Social Responsibility and the Law
+LLM557: LLM557 Natural Resource Governance Applied Research Project
+LLM558: LLM558 Natural Resources Law
+LLM560: LLM560 World Legal Systems
+LLM561: LLM561 Criminal Procedure
+LLM562: LLM562 International Law
+LLM564: LLM564 Native Title Law and Policy
+LLM565: LLM565 Gender and the Law
+LLM566: LLM566 Social Media and the Law
+LLM570: LLM570 Family Law
+LLM579: LLM579 Commercial Law
+LLM585: LLM585 Advanced Transition and Succession Planning
+LLM587: LLM587 Water Law and Governance
+LLM591: LLM591 International Criminal Law
+LLM595: LLM595 Special Studies in Law (C)
+LLM599: LLM599 Special Studies
+LSK220: LSK220 Molecular Laboratory Skills for Life Sciences
+LSK240: LSK240 Integrated Physiology Skills
+LSK310: LSK310 Capstone Biophysiological Techniques
+LSK420: LSK420 Molecular Laboratory Skills for Life Sciences
+LSK440: LSK440 Integrated Physiology Skills
+LSK510: LSK510 Capstone Biophysiological Techniques
+LSSU251: LSSU251 Introduction to Business Law
+LSSU261: LSSU261 Fundamentals of Evidence Law
+LSSU262: LSSU262 Introduction to Procedure Law
+LSSU350: LSSU350 Commercial Law I: Principles of Australian Law
+LSSU391: LSSU391 Principles of Corporation Law
+LSSU392: LSSU392 Principles of Taxation Law
+LSSU394: LSSU394 Issues in Commercial and Financial Services Law
+LSSU395: LSSU395 Taxation Law for Financial Services
+LSSU450: LSSU450 Commercial Law I: Principles of Australian Law
+LSSU451: LSSU451 Legal Studies
+LSSU493: LSSU493 Advanced Taxation Law
+LSSU591: LSSU591 Law of Commercial Associations
+LSSU592: LSSU592 Taxation Law
+LSSU593: LSSU593 Advanced Taxation Law
+LSSU594: LSSU594 Issues in Commercial and Financial Services Law
+LSSU595: LSSU595 Taxation Law for Financial Services
+LSU100: LSU100 Introduction to Legal Studies
+MATH260: MATH260 Probability and Simulation
+MATH460: MATH460 Probability and Simulation
+MATH501: MATH501 Advanced Topics in Geometry
+MATH502: MATH502 Advanced Topics in Analysis
+MATH503: MATH503 Advanced Topics in Mathematics
+MATH504: MATH504 Advanced Topics in Algebra
+MEAT318: MEAT318 Meat Technology
+MEDI1101A: MEDI1101A Clinical Sciences, Scholarship and Practice 1A
+MEDI1101B: MEDI1101B Clinical Sciences, Scholarship and Practice 1B
+MEDI2101A: MEDI2101A Clinical Sciences, Scholarship and Practice 2A
+MEDI2101B: MEDI2101B Clinical Sciences, Scholarship and Practice 2B
+MEDI3101A: MEDI3101A Engaging in Clinical Practice A
+MEDI3101B: MEDI3101B Engaging in Clinical Practice B
+MEDI400: MEDI400 Medical Science Honours
+MEDI4001A: MEDI4001A Contexts of Clinical Practice Part A
+MEDI4001B: MEDI4001B Contexts of Clinical Practice Part B
+MEDI4101A: MEDI4101A Contexts of Medical Practice A
+MEDI4101B: MEDI4101B Contexts of Medical Practice B
+MEDI5015: MEDI5015 Medicine/Psychiatry/Palliative Care/PHCS
+MEDI5016: MEDI5016 Critical Care
+MEDI6001A: MEDI6001A Research for Medical Professionals A
+MEDI6001B: MEDI6001B Research for Medical Professionals B
+MEDI6101A: MEDI6101A Integrated Medicine A
+MEDI6101B: MEDI6101B Integrated Medicine B
+MEDI6102A: MEDI6102A Pathways to Medical Practice A
+MEDI6102B: MEDI6102B Pathways to Medical Practice B
+MEDI6103A: MEDI6103A Research Project of Enquiry A
+MEDI6103B: MEDI6103B Research Project of Enquiry B
+MEDI6201A: MEDI6201A Transition to Practice A
+MEDI6201B: MEDI6201B Transition to Practice B
+MEDI6202A: MEDI6202A Pathways Experience A
+MEDI6202B: MEDI6202B Pathways Experience B
+MICR220: MICR220 Introductory Microbiology
+MICR350: MICR350 Clinical Microbiology and Virology
+MICR550: MICR550 Clinical Microbiology and Virology
+MM105: MM105 Communication for Business
+MM110: MM110 Fundamentals of Marketing
+MM123: MM123 Fundamentals of Management
+MM203: MM203 Management Practices in Responsible Organisations
+MM221: MM221 Human Resource Management
+MM311: MM311 Consumer Behaviour
+MM313: MM313 Digital Marketing Communications
+MM314: MM314 Services Marketing
+MM316: MM316 Strategic Marketing
+MM320: MM320 Managing Change
+MM322: MM322 Business Ethics
+MM324: MM324 Organisational Leadership
+MM330: MM330 Project Management
+MM333: MM333 Workforce Planning and Employee Development
+MM353: MM353 Employment Relations
+MM403: MM403 Strategic Planning and Sustainability
+MM405: MM405 Advanced Organisational Behaviour
+MM431: MM431 Marketing Management
+MM439: MM439 Strategic Human Resource Management
+MM453: MM453 Workforce Planning and Talent Development
+MM467: MM467 Professional Ethics
+MM491: MM491 Managing Across Cultures
+MM503: MM503 Management Practices in Responsible Organisations
+MM514: MM514 Services Marketing
+MM523: MM523 Strategic Management Research Project
+MM530: MM530 Project Management
+MM540: MM540 Navigating Organisational Complexity
+MM545: MM545 Organisational Leadership: Theory and Practice
+MM551: MM551 Business Ethics, CSR and Sustainability
+MM553: MM553 Employment Relations
+MM573: MM573 Management of Change
+MTHS100: MTHS100 Introduction to Quantitative Skills
+MTHS110: MTHS110 Quantitative Skills with Applications
+MTHS120: MTHS120 Calculus and Linear Algebra 1
+MTHS130: MTHS130 Calculus and Linear Algebra 2
+MUSI110: MUSI110 Music Theory and Analysis 1
+MUSI111: MUSI111 Encounters in Music
+MUSI119: MUSI119 Foundation Instrumental/Vocal Studies
+MUSI131: MUSI131 Cross-Cultural Music Concepts and Analysis
+MUSI140: MUSI140 Fundamentals of Creative Music Practice
+MUSI160: MUSI160 Digital Music and Media Fundamentals
+MUSI204: MUSI204 Music Performance: Processes, Creativity and Audiences
+MUSI208: MUSI208 Composition Structure and Instrumentation
+MUSI210: MUSI210 Music Theory and Analysis 2
+MUSI219: MUSI219 Intermediate Instrumental/Vocal Studies
+MUSI221: MUSI221 Songwriting for Contemporary Performance
+MUSI235: MUSI235 Popular Music
+MUSI236: MUSI236 Early European Music
+MUSI237: MUSI237 Music in the Age of Empires and Nations
+MUSI240: MUSI240 Collaborative Music Creation
+MUSI253: MUSI253 Private Studio Pedagogy
+MUSI260: MUSI260 Electronic Music Production
+MUSI308: MUSI308 Orchestration and Advanced Music Structures
+MUSI319: MUSI319 Advanced Instrumental/Vocal Study
+MUSI321: MUSI321 Music Performance: Production, Media and Innovation
+MUSI338: MUSI338 Music in the Modern Age and Beyond
+MUSI339: MUSI339 Global Music History
+MUSI340: MUSI340 Music Major Project
+MUSI353: MUSI353 Ensemble Leadership
+MUSI361: MUSI361 Creative Music Production
+MUSI364: MUSI364 Screen Composition and Sound Design
+MUSI366: MUSI366 Digital Musicology
+MUSI390: MUSI390 Professional Practice of Music
+MUSI400H: MUSI400H Honours in Music
+MUSI503: MUSI503 Music Research Methods
+MUSI510: MUSI510 Advanced Music Theory and Analysis
+MUSI539: MUSI539 Global Music History
+MUSI540: MUSI540 Advanced Creative Portfolio
+MUSI553: MUSI553 Ensemble Leadership
+MUSI561: MUSI561 Advanced Creative Music Production
+MUSI566: MUSI566 Advanced Digital Musicology
+MUSI590: MUSI590 Professional Practice of Music
+NEUR231: NEUR231 Neurobiology
+NEUR232: NEUR232 Neuroanatomy
+NEUR233: NEUR233 The Brain and Behaviour
+NEUR330: NEUR330 A Walk Through the Brain
+NEUR334: NEUR334 Neurobiology of Developmental, Anxiety and Cognitive Disorders
+NEUR335: NEUR335 Clinical Neuroscience
+NEUR337: NEUR337 Understanding and Changing Human Behaviour
+NEUR339: NEUR339 Neurobiological Bases of Autism
+NEUR340: NEUR340 Neurobiology and Treatment of Depression
+NEUR341: NEUR341 Functional and Biomedical Impact of Disorder and Disability
+NEUR342: NEUR342 Neurobiology of Anxiety Disorders
+NEUR501: NEUR501 Research Topics in Neuroscience
+NEUR502: NEUR502 Research Methods in Neuroscience
+NEUR530: NEUR530 A Walk Through the Brain
+NEUR531: NEUR531 Neurobiology
+NEUR532: NEUR532 Neuroanatomy
+NEUR533: NEUR533 The Brain and Behaviour
+NEUR534: NEUR534 Neurobiology of Developmental, Anxiety and Cognitive Disorders
+NEUR535: NEUR535 Clinical Neuroscience
+NEUR537: NEUR537 Understanding and Changing Human Behaviour
+NEUR538: NEUR538 Clinical Processes in Neuroscience
+NEUR539: NEUR539 Neurobiological Bases of Autism
+NEUR540: NEUR540 Neurobiology and Treatment of Depression
+NEUR541: NEUR541 Functional and Biomedical Impact of Disorder and Disability
+NEUR542: NEUR542 Neurobiology of Anxiety Disorders
+OORA100: OORA100 Aboriginal Resilience and the Arts
+OORA200: OORA200 Working with Aboriginal People
+OORA300: OORA300 Aboriginal Resilience and the Arts
+OORA400: OORA400 Working with Aboriginal People
+OSLS391: OSLS391 Overseas Language Study
+OSSE300: OSSE300 Overseas Study Experience
+OSSE500: OSSE500 Overseas Study Experience
+PA335: PA335 Precision Agriculture
+PA435: PA435 Precision Agriculture
+PAIS101: PAIS101 Introduction to Politics
+PAIS104: PAIS104 Introduction to Indigenous Australia
+PAIS105: PAIS105 Global Indigenous Experiences
+PAIS113: PAIS113 International Relations of the Asia Pacific
+PAIS302: PAIS302 Political Thinking
+PAIS313: PAIS313 China and the World
+PAIS314: PAIS314 21st Century International Relations
+PAIS318: PAIS318 Australia’s Relations with the Asia Pacific
+PAIS322: PAIS322 Indigenous Politics and Public Policy
+PAIS323: PAIS323 Indigenous Business and Community Development
+PAIS324: PAIS324 Indigenous Peoples and Colonisation: Land and Nature
+PAIS370: PAIS370 Contemporary Political Issues
+PAIS380: PAIS380 Dragon in Chains? Contemporary Chinese Politics
+PAIS390: PAIS390 Politics in the Developing World
+PAIS400H: PAIS400H Honours in Political and International Studies
+PAIS502: PAIS502 Political Thinking
+PAIS513: PAIS513 China and the World
+PAIS514: PAIS514 21st Century International Relations
+PAIS518: PAIS518 Australia’s Relations with the Asia Pacific
+PAIS522: PAIS522 Indigenous Politics and Public Policy
+PAIS523: PAIS523 Indigenous Business and Community Development
+PAIS524: PAIS524 Indigenous Peoples and Colonisation: Land and Nature
+PAIS570: PAIS570 Contemporary Political Issues
+PAIS580: PAIS580 Dragon in Chains? Contemporary Chinese Politics
+PAIS590: PAIS590 Politics in the Developing World
+PEAC100: PEAC100 Introduction to Peace Studies
+PEAC102: PEAC102 Environmental Peace
+PEAC303: PEAC303 Active Resistance: Contemporary Nonviolence
+PEAC304: PEAC304 Peace Through Environmental Security
+PEAC328: PEAC328 Practical Skills for Conflict Resolution, Mediation and Negotiation
+PEAC352: PEAC352 Sustaining Peace in Divided Societies
+PEAC373: PEAC373 Globalisation as if People and Ecosystems Matter
+PEAC388: PEAC388 Refugees, Rights and Responsibilities in the 21st Century
+PEAC503: PEAC503 Active Resistance: Contemporary Nonviolence
+PEAC504: PEAC504 Peace Through Environmental Security
+PEAC528: PEAC528 Practical Skills for Conflict Resolution, Mediation and Negotiation
+PEAC552: PEAC552 Sustaining Peace in Divided Societies
+PEAC573: PEAC573 Globalisation as if People and Ecosystems Matter
+PEAC588: PEAC588 Refugees, Rights and Responsibilities in the 21st Century
+PHAR110: PHAR110 Introduction to Pharmacy
+PHAR120: PHAR120 Pharmaceutical Science I
+PHAR200: PHAR200 Pharmaceutical Science II
+PHAR210: PHAR210 Pharmacy Practice I
+PHAR222: PHAR222 Pharmacology I
+PHAR232: PHAR232 Pharmacology for Research
+PHAR240: PHAR240 Drug Technologies and New Drug Therapies
+PHAR310: PHAR310 Pharmacy Practice II
+PHAR320: PHAR320 Pharmacy Practice III
+PHAR330: PHAR330 Pharmacology II
+PHAR340: PHAR340 Pharmacokinetics
+PHAR350: PHAR350 Applied Pharmacotherapeutics I
+PHAR360: PHAR360 Applied Pharmacotherapeutics II
+PHAR370: PHAR370 Molecular Basis of Therapeutics
+PHAR390: PHAR390 Pharmacy Practice Research
+PHAR402H: PHAR402H Research Project in Pharmacy
+PHAR410: PHAR410 Pharmacy Practice IV
+PHAR420: PHAR420 Pharmacy Practice V
+PHAR430: PHAR430 Applied Pharmacotherapeutics III
+PHAR440: PHAR440 Drug Technologies and New Drug Therapies
+PHAR450: PHAR450 Pharmacy Practicum
+PHAR460: PHAR460 Rural and Remote Pharmacy Practice
+PHAR495: PHAR495 Pharmacy Research Project
+PHIL102: PHIL102 Critical Thinking
+PHIL150: PHIL150 Introduction to Philosophy B: Metaphysics and Theory of Knowledge
+PHIL151: PHIL151 Introduction to Philosophy A: The Examined Life
+PHIL303: PHIL303 Epistemology: The Enlightenment and Beyond
+PHIL304: PHIL304 Philosophy of Science
+PHIL307: PHIL307 European Philosophy: The 20th and 21st Centuries
+PHIL308: PHIL308 Friendship, Love and Sex
+PHIL330: PHIL330 Elementary Logic
+PHIL342: PHIL342 Ethical Theory
+PHIL366: PHIL366 The Ethics of Environmentalism
+PHIL375: PHIL375 Social Philosophy: Issues in Applied Ethics
+PHIL400H: PHIL400H Honours in Philosophy
+PHIL503: PHIL503 Epistemology: The Enlightenment and Beyond
+PHIL504: PHIL504 Philosophy of Science
+PHIL506: PHIL506 European Philosophy: The 19th Century
+PHIL507: PHIL507 European Philosophy: The 20th and 21st Centuries
+PHIL508: PHIL508 Friendship, Love and Sex
+PHIL509: PHIL509 Sex and Death: Issues in the Philosophy of Biology
+PHIL530: PHIL530 Elementary Logic
+PHIL542: PHIL542 Ethical Theory
+PHIL566: PHIL566 The Ethics of Environmentalism
+PHIL575: PHIL575 Social Philosophy: Issues in Applied Ethics
+PHYS100: PHYS100 Introductory Physics
+PHYS131: PHYS131 Applied Physics I
+PHYS132: PHYS132 Applied Physics II
+PHYS204: PHYS204 Electromagnetism 1
+PHYS208: PHYS208 Topics in Advanced Physical Sciences
+PHYS213: PHYS213 Sensors and Signal Processing
+PHYS301: PHYS301 Microscopic to Macroscopic Physics and Chemistry
+PHYS311: PHYS311 Digital Electronic Systems
+PHYS313: PHYS313 Applied Photonics
+PHYS404: PHYS404 Electromagnetism 1
+PHYS501: PHYS501 Microscopic to Macroscopic Physics and Chemistry
+PHYS511: PHYS511 Digital Electronic Systems
+PLTY301: PLTY301 Poultry Production
+PLTY501: PLTY501 Poultry Production
+PMTH212: PMTH212 Multivariable Calculus
+PMTH213: PMTH213 Linear Algebra
+PMTH331: PMTH331 Introduction to Topology
+PMTH332: PMTH332 Abstract Algebra
+PMTH333: PMTH333 Complex Analysis
+PMTH338: PMTH338 Number Theory
+PMTH339: PMTH339 Differential Equations
+PMTH412: PMTH412 Multivariable Calculus
+PMTH413: PMTH413 Linear Algebra
+PMTH431: PMTH431 Introduction to Topology
+PMTH432: PMTH432 Abstract Algebra
+PMTH433: PMTH433 Complex Analysis
+PMTH439: PMTH439 Differential Equations
+PRACAGR: PRACAGR Agriculture Practical Experience
+PRACANSC: PRACANSC Animal Science Practical Experience
+PRACBURP: PRACBURP Bachelor of Urban and Regional Planning Practical Experience
+PRACRURSC: PRACRURSC Additional Rural Science Practical Experience
+PREX201: PREX201 Professional Experience 1 (20 days)
+PREX222: PREX222 Professional Experience: Special Education (5 days)
+PREX223: PREX223 Professional Experience: Special Education (10 days)
+PREX302: PREX302 Professional Experience 2 (20 days)
+PREX303: PREX303 Professional Experience 3 (20 days)
+PREX304: PREX304 Professional Experience 4 (20 days)
+PREX304-6: PREX304-6 Professional Experience 4 (20 days)
+PREX306: PREX306 Professional Experience: Special Education 1 (20 days)
+PREX310: PREX310 Professional Experience Birth to 2 Years (10 days)
+PREX311: PREX311 Professional Experience 3-5 Years (10 days)
+PREX396: PREX396 Internship (50 days)
+PREX560: PREX560 Professional Experience: PrEx 30 days
+PROF699: PROF699 Professional Doctorate Innovation Portfolio
+PSIO110: PSIO110 Introductory Human Physiology 1
+PSIO120: PSIO120 Introductory Human Physiology 2
+PSIO230: PSIO230 Pathophysiology
+PSIO331: PSIO331 Endocrinology and Reproductive Physiology
+PSIO332: PSIO332 Cardiovascular and Respiratory Physiology
+PSIO335: PSIO335 Human Nutrition and Metabolism
+PSIO350: PSIO350 Immunology and Haematology
+PSIO411: PSIO411 Human Physiology
+PSIO531: PSIO531 Endocrinology and Reproductive Physiology
+PSIO550: PSIO550 Immunology and Haematology
+PSYC101: PSYC101 Introductory Psychology I
+PSYC102: PSYC102 Introductory Psychology II
+PSYC200: PSYC200 Social Psychology
+PSYC202: PSYC202 Research Methods and Statistics
+PSYC206: PSYC206 Cognitive Psychology
+PSYC213: PSYC213 Lifespan Developmental Psychology
+PSYC304: PSYC304 Health Psychology
+PSYC306: PSYC306 Organisational Psychology
+PSYC307: PSYC307 Motivation and Emotion
+PSYC308: PSYC308 Sport and Exercise Psychology
+PSYC309: PSYC309 Cognitive Affective and Social Neuroscience
+PSYC314: PSYC314 Behaviour Modification: Learning Principles Applied
+PSYC315: PSYC315 Psychological Science and the Environment
+PSYC363: PSYC363 Psychopathology
+PSYC366: PSYC366 Biopsychology
+PSYC371: PSYC371 Individual Differences and Assessment
+PSYC372: PSYC372 Advanced Research Methods and Statistics
+PSYC399: PSYC399 Special Topics in Psychological Research
+PSYC402H: PSYC402H Psychology Honours Thesis
+PSYC403H: PSYC403H Psychology Honours Thesis: Neuroscience
+PSYC421: PSYC421 Professional Practice 1
+PSYC422: PSYC422 Advanced Research Skills
+PSYC423: PSYC423 Professional Practice 2
+PSYC424: PSYC424 Advanced Topics in Psychology
+PSYC466: PSYC466 Biopsychology
+PSYC471: PSYC471 Individual Differences and Assessment
+PSYC472: PSYC472 Advanced Research Methods and Statistics
+PSYC503: PSYC503 Adult Psychological Disorders
+PSYC504: PSYC504 Psychological Interventions with Adults
+PSYC505: PSYC505 Clinical Psychological Assessment
+PSYC506: PSYC506 Counselling Skills and Professional Practice
+PSYC507: PSYC507 Clinical Child and Adolescent Psychology
+PSYC513: PSYC513 Clinical Psychology Placement I
+PSYC514: PSYC514 Clinical Psychology Placement IA (Psychologists with General Registration)
+PSYC515: PSYC515 Psychological Science and the Environment
+PSYC516: PSYC516 Applied Clinical Research
+PSYC522: PSYC522 Clinical Psychology Thesis
+PSYC523: PSYC523 Clinical Psychology Placement II
+PSYC524: PSYC524 Clinical Psychology Placement III
+PSYC525: PSYC525 Health Psychology, Rehabilitation, Older Adults
+PSYC526: PSYC526 Advanced Topics in Clinical Psychology
+PSYC527: PSYC527 Psychological Practice in an Educational Context
+PSYC528: PSYC528 Advanced Assessment and Intervention I
+PSYC529: PSYC529 Advanced Assessment and Intervention II
+PSYC532: PSYC532 School Psychology Placement
+PSYC533: PSYC533 Psychology Practice Placement
+PSYC534: PSYC534 Clinical Psychology Placement II (External)
+PSYC535: PSYC535 Clinical Psychology Placement III (External)
+PSYC537: PSYC537 Assessment and Intervention in School Psychology
+QM161: QM161 Business Statistics
+QM162: QM162 Introduction to Business Analytics
+QM262: QM262 Introduction to Business Analytics
+QM265: QM265 Business Decision Making
+QM365: QM365 Business Decision Making
+QM367: QM367 Analytics for Business Research
+QM461: QM461 Quantitative Techniques for Management
+QMER100: QMER100 Foundational Quantitative Methods for Environmental and Rural Sciences
+REG510: REG510 Risk Analysis and Research Tools in Regulatory Science
+RELS182: RELS182 World Religions Today
+RELS184: RELS184 Magic and the Supernatural in History and Culture
+RELS300: RELS300 New Religions, Media and Popular Culture
+RELS380: RELS380 Exploring the Sacred
+RELS381: RELS381 Chinese and Japanese Religion: A History
+RELS384: RELS384 Religions of the Ancient Near East
+RELS385: RELS385 Women, Gender and the World's Religions
+RELS387: RELS387 Earliest Christianity: Social Context and Sacred Text
+RELS388: RELS388 The Pagan Religions of Ancient Greece and Rome
+RELS400H: RELS400H Honours in Studies in Religion
+RELS500: RELS500 New Religions, Media and Popular Culture
+RELS581: RELS581 Chinese and Japanese Religion: A History
+RELS584: RELS584 Religions of the Ancient Near East
+RELS585: RELS585 Women, Gender and the World's Religions
+RELS587: RELS587 Earliest Christianity: Social Context and Sacred Text
+RELS588: RELS588 The Pagan Religions of Ancient Greece and Rome
+RSNR301: RSNR301 Pollution Management
+RSNR303: RSNR303 Sustainable Land Management
+RSNR503: RSNR503 Sustainable Land Management
+RUSC490: RUSC490 Rural Science/Livestock Science Honours
+SCI100: SCI100 Science in Practice
+SCI210: SCI210 Introduction to Scientific Programming
+SCI310: SCI310 Digital Technology Survival Skills
+SCI395: SCI395 Science Report
+SCI400: SCI400 Honours in Science
+SCI410: SCI410 Introduction to Scientific Programming
+SCI495: SCI495 Science Research Project
+SCI499: SCI499 Graduate Diploma in Science Thesis
+SCI500: SCI500 Research Methods in The Sciences
+SCI501: SCI501 Special Topics in Science A
+SCI502: SCI502 Special Topics in Science B
+SCI505: SCI505 Science Practicum
+SCI510: SCI510 Digital Technology Survival Skills
+SCI599: SCI599 Science Masters Thesis
+SOCY100: SOCY100 Introduction to Sociology
+SOCY110: SOCY110 Thinking Sociologically
+SOCY120: SOCY120 An Interdisciplinary Introduction to Gender Studies
+SOCY300: SOCY300 The City and Social Change
+SOCY301: SOCY301 Changing Climate, Changing Lives
+SOCY303: SOCY303 Democracy in Danger? Comparative Populism in Question
+SOCY313: SOCY313 Australian Social and Public Policy
+SOCY321: SOCY321 Health in Social Perspective
+SOCY332: SOCY332 Popular Culture
+SOCY336: SOCY336 Sociology of the Modern Family
+SOCY340: SOCY340 Interpreting Modernity
+SOCY345: SOCY345 Social Research Methods
+SOCY356: SOCY356 The State, Power and Violence
+SOCY360: SOCY360 Power and Inequality
+SOCY382: SOCY382 Sex, Gender and Social Change
+SOCY393: SOCY393 The Social Body: Identity, Diversity, Embodiment
+SOCY400H: SOCY400H Honours in Sociology
+SOCY500: SOCY500 The City and Social Change
+SOCY501: SOCY501 Changing Climate, Changing Lives
+SOCY503: SOCY503 Democracy in Danger? Comparative Populism in Question
+SOCY513: SOCY513 Australian Social and Public Policy
+SOCY532: SOCY532 Popular Culture
+SOCY540: SOCY540 Interpreting Modernity
+SOCY545: SOCY545 Social Research Methods
+SOCY555: SOCY555 Dissertation in Sociology
+SOCY556: SOCY556 The State, Power and Violence
+SOCY560: SOCY560 Power and Inequality
+SOCY582: SOCY582 Sex, Gender and Social Change
+SOCY593: SOCY593 The Social Body: Identity, Diversity, Embodiment
+SOIL222: SOIL222 Soil Science
+SOIL310: SOIL310 Soils, Pollution and the Environment
+SOIL311: SOIL311 Productive Soil Systems
+SOIL431: SOIL431 Soils in Practice
+SOIL500: SOIL500 Soils in Landscapes
+SOIL510: SOIL510 Soils, Pollution and the Environment
+SPAN101: SPAN101 Introductory Spanish I
+SPAN102: SPAN102 Introductory Spanish II
+SPAN103: SPAN103 Professional Spanish
+SPAN201: SPAN201 Intermediate Spanish Language I
+SPAN202: SPAN202 Intermediate Spanish Language II
+SPAN203: SPAN203 The Sound of Spanish: Diction, Dialects and Diversity
+SPAN204: SPAN204 Hispanic Culture and Heritage
+SPAN301: SPAN301 Advanced Spanish Language
+SPAN302: SPAN302 Talking Cine: Spanish Conversation on Film
+SPAN303: SPAN303 Travellers' Tales: The Invention of Latin America
+SPAN304: SPAN304 Theory and Practice of Translation
+SPAN306: SPAN306 Latin American Rhythms and Politics: From Tango to Rock
+SPAN400H: SPAN400H Honours in Spanish
+SPAN402H: SPAN402H Spanish Hons Dissertation
+STAT100: STAT100 Introduction to Statistical Modelling
+STAT210: STAT210 Statistical Modelling and Experimental Design
+STAT270: STAT270 Frequentist and Bayesian Statistical Inference
+STAT320: STAT320 Advanced Statistical Modelling
+STAT330: STAT330 Statistical Learning
+STAT410: STAT410 Statistical Modelling and Experimental Design
+STAT420: STAT420 Advanced Statistical Modelling
+STAT430: STAT430 Statistical Learning
+STAT470: STAT470 Frequentist and Bayesian Statistical Inference
+THEA110: THEA110 Performance From Ritual to Realism
+THEA111: THEA111 Making Theatre New
+THEA134: THEA134 Speaking in Public
+THEA210: THEA210 Performance From Ritual to Realism
+THEA234: THEA234 Speaking in Public
+THEA304: THEA304 The Classic Play and Performance Now
+THEA305: THEA305 Major Creative Project
+THEA307: THEA307 The Actor's Craft
+THEA317: THEA317 Australian Theatre
+THEA321: THEA321 Writing for Performance: Stage and Screen
+THEA330: THEA330 The Role of the Director
+THEA360: THEA360 Pitches and Partners
+THEA400H: THEA400H Honours in Theatre Studies
+THEA407: THEA407 The Actor's Craft
+THEA430: THEA430 The Role of the Director
+THEA501: THEA501 Performance Preparation and Research
+THEA502: THEA502 The Entrepreneurial Creative Artist
+THEA503: THEA503 Advanced Theatre Performance and Analysis
+THEA504: THEA504 The Classic Play and Performance Now
+THEA505: THEA505 Major Creative Project
+THEA517: THEA517 Australian Theatre
+THEA521: THEA521 Writing for Performance: Stage and Screen
+THEA560: THEA560 Pitches and Partners
+TRAX001: TRAX001 University and Study Skills
+TRAX002: TRAX002 Aboriginal and Torres Strait Islander Studies
+TRAX003: TRAX003 Aboriginal and Torres Strait Islander Communities
+TRAX005: TRAX005 Academic Literacy
+TRAX006: TRAX006 Information and Communication Technology in Higher Education
+WOOL300: WOOL300 Fundamentals of Sheep and Wool Production
+WOOL312: WOOL312 Sheep Production
+WOOL322: WOOL322 Wool Marketing and Clip Preparation
+WOOL472: WOOL472 Wool Technology
+WOOL482: WOOL482 Wool Processing
+WOOL512: WOOL512 Sheep Production
+WORK100: WORK100 Engaging in My Future
+WORK300: WORK300 Work Integrated Learning - Professional Skills Development
+WORK500: WORK500 Work Integrated Learning - Professional Skills Development
+WRIT101: WRIT101 The Craft of Academic Writing
+WRIT102: WRIT102 Storytelling and Genre Writing
+WRIT303: WRIT303 Writing for Research
+WRIT304: WRIT304 Writing Short Fiction
+WRIT306: WRIT306 Writing for Work: Styles and Contexts
+WRIT309: WRIT309 Writing Creative Non-fiction
+WRIT313: WRIT313 Editing Skills and Standards
+WRIT326: WRIT326 Persuading the Public: Rhetoric in Public Affairs
+WRIT327: WRIT327 Magazines: Culture, Industry and Practices
+WRIT329: WRIT329 Publishing Practice
+WRIT503: WRIT503 Writing for Research
+WRIT504: WRIT504 Writing Short Fiction
+WRIT506: WRIT506 Writing for Work: Styles and Contexts
+WRIT509: WRIT509 Writing Creative Non-fiction
+WRIT513: WRIT513 Editing Skills and Standards
+WRIT526: WRIT526 Persuading the Public: Rhetoric in Public Affairs
+WRIT527: WRIT527 Magazines: Culture, Industry and Practices
+WRIT529: WRIT529 Publishing Practice
+ZOOL100: ZOOL100 Life on Earth
+ZOOL111: ZOOL111 Zoology in Practice I
+ZOOL203: ZOOL203 Vertebrate Zoology - Evolution and Diversity
+ZOOL210: ZOOL210 Invertebrate Zoology
+ZOOL222: ZOOL222 Zoology in Practice II
+ZOOL310: ZOOL310 Techniques in Zoology
+ZOOL320: ZOOL320 Entomology
+ZOOL326: ZOOL326 Animal Behaviour
+ZOOL327: ZOOL327 Ecological and Comparative Physiology
+ZOOL329: ZOOL329 Evolutionary Parasitology
+ZOOL333: ZOOL333 Zoology in Practice III
+ZOOL526: ZOOL526 Animal Behaviour
+ADDA: ADDA Advanced Diploma in Arts
+ADLFAH: ADLFAH Advanced Diploma in Local, Family and Applied History
+ADLS: ADLS Advanced Diploma in Legal Studies
+ADPS: ADPS Advanced Diploma in Paralegal Studies
+ADSC: ADSC Advanced Diploma in Science
+ADTPF: ADTPF Associate Degree in Teaching (Pacific Focus)
+BA: BA Bachelor of Arts
+BABUS: BABUS Bachelor of Arts/Bachelor of Business
+BACC: BACC Bachelor of Accounting
+BACLAW: BACLAW Bachelor of Accounting/Bachelor of Laws
+BAGB: BAGB Bachelor of Agribusiness
+BAGBUS: BAGBUS Bachelor of Agriculture/Bachelor of Business
+BAGLAW: BAGLAW Bachelor of Agriculture/Bachelor of Laws
+BAGR: BAGR Bachelor of Agriculture
+BAGREC: BAGREC Bachelor of Agricultural and Resource Economics
+BALAW: BALAW Bachelor of Arts/Bachelor of Laws
+BANSC: BANSC Bachelor of Animal Science
+BASC: BASC Bachelor of Arts/Bachelor of Science
+BBIOSC: BBIOSC Bachelor of Biomedical Science
+BBULAW: BBULAW Bachelor of Business/Bachelor of Laws
+BBUS: BBUS Bachelor of Business
+BBUSEC: BBUSEC Bachelor of Business/Bachelor of Economics
+BCEP: BCEP Bachelor of Clinical Exercise Physiology
+BCOMFP: BCOMFP Bachelor of Commerce (Financial Planning)
+BCOMP: BCOMP Bachelor of Computer Science
+BCRIM: BCRIM Bachelor of Criminology
+BCRLAW: BCRLAW Bachelor of Criminology/Bachelor of Laws
+BCS: BCS Bachelor of Community Services
+BCSLAW: BCSLAW Bachelor of Computer Science/Bachelor of Laws
+BDM: BDM Bachelor of Digital Marketing
+BEC: BEC Bachelor of Economics
+BECLAW: BECLAW Bachelor of Economics/Bachelor of Laws
+BEDEC1: BEDEC1 Bachelor of Education (Early Childhood Teaching)
+BEDECE: BEDECE Bachelor of Education (Early Childhood Education and Care)
+BEDECP: BEDECP Bachelor of Education (Early Childhood and Primary)
+BEDISC: BEDISC Bachelor of Education (In-service Conversion)
+BEDK12: BEDK12 Bachelor of Education (K-12 Teaching)
+BEDK6: BEDK6 Bachelor of Education (K-6 Teaching)
+BEDPF: BEDPF Bachelor of Education (Pacific Focus)
+BEDS: BEDS Bachelor of Educational Studies
+BEDSA: BEDSA Bachelor of Education (Secondary Arts)
+BEDSMT: BEDSMT Bachelor of Education (Secondary Mathematics)
+BEDSMU: BEDSMU Bachelor of Education (Secondary Music)
+BEDSSC: BEDSSC Bachelor of Education (Secondary STEM)
+BENSC: BENSC Bachelor of Environmental Science
+BESLAW: BESLAW Bachelor of Environmental Science/Bachelor of Laws
+BEXSS: BEXSS Bachelor of Exercise and Sports Science
+BGEOSC: BGEOSC Bachelor of GeoScience
+BHIP: BHIP Bachelor of Historical Inquiry and Practice
+BILS: BILS Bachelor of International and Language Studies
+BIS: BIS Bachelor of International Studies
+BIT01: BIT01 Bachelor of Information Technology
+BLANG: BLANG Bachelor of Languages
+BLANST: BLANST Bachelor of Language Studies
+BLAW01: BLAW01 Bachelor of Laws (4 Years)
+BLAWS: BLAWS Bachelor of Laws (3 Years)
+BLIB: BLIB Bachelor of Languages and International Business
+BLS: BLS Bachelor of Legal Studies
+BMC: BMC Bachelor of Media and Communications
+BMCLAW: BMCLAW Bachelor of Media and Communications/Bachelor of Laws
+BMSCEX: BMSCEX Bachelor of Medical Science
+BMSMD: BMSMD Bachelor of Medical Science and Doctor of Medicine
+BMUS: BMUS Bachelor of Music
+BNURS: BNURS Bachelor of Nursing
+BORGL: BORGL Bachelor of Organisational Leadership
+BPSYSC: BPSYSC Bachelor of Psychological Science
+BRURSC: BRURSC Bachelor of Rural Science
+BSC: BSC Bachelor of Science
+BSCLAW: BSCLAW Bachelor of Science/Bachelor of Laws
+BSCST: BSCST Bachelor of Scientific Studies
+BSIEP: BSIEP Bachelor of Special and Inclusive Education (Primary)
+BSOCSC: BSOCSC Bachelor of Social Science
+BSOCWK: BSOCWK Bachelor of Social Work
+BSUS: BSUS Bachelor of Sustainability
+BTD: BTD Bachelor of Training and Development
+BURP: BURP Bachelor of Urban and Regional Planning
+BZOOL: BZOOL Bachelor of Zoology
+DAGR: DAGR Diploma in Agricultural Studies
+DARTS: DARTS Diploma in Arts
+DBUS: DBUS Diploma in Business
+DCWW: DCWW Diploma in Community Welfare and Wellbeing
+DEDS: DEDS Diploma in Educational Studies
+DIT: DIT Diploma in Information Technology
+DLS: DLS Diploma in Legal Studies
+DMLANG: DMLANG Diploma in Modern Languages
+DMUS: DMUS Diploma in Music
+DMUTEC: DMUTEC Diploma in Music Technology
+DPCOM: DPCOM Diploma in Professional Communication
+DPS: DPS Diploma in Paralegal Studies
+DSCNCE: DSCNCE Diploma in Science
+DTWNPL: DTWNPL Diploma in Town Planning
+ENABLE: ENABLE Pathways Enabling Course
+GCA: GCA Graduate Certificate in Arts
+GCACC: GCACC Graduate Certificate in Accounting
+GCAGB: GCAGB Graduate Certificate in Agribusiness
+GCAGR: GCAGR Graduate Certificate in Agriculture
+GCAPEC: GCAPEC Graduate Certificate in Applied Economics
+GCAPL: GCAPL Graduate Certificate in Applied Linguistics
+GCAPLD: GCAPLD Graduate Certificate in Applied Leadership
+GCBUS: GCBUS Graduate Certificate in Business
+GCCS: GCCS Graduate Certificate in Cybersecurity
+GCCSC: GCCSC Graduate Certificate in Cybersecurity and Computing
+GCDCM: GCDCM Graduate Certificate in Data and Cyber Management
+GCDIS: GCDIS Graduate Certificate in Disability Practice
+GCDL: GCDL Graduate Certificate in Digital Learning
+GCDSC: GCDSC Graduate Certificate in Data Science
+GCENSC: GCENSC Graduate Certificate in Environmental Science
+GCES: GCES Graduate Certificate in Education Studies
+GCHM: GCHM Graduate Certificate in Health Management
+GCHPE: GCHPE Graduate Certificate in Health Professional Education
+GCHRM: GCHRM Graduate Certificate in Human Resource Management
+GCIT: GCIT Graduate Certificate in Information Technology
+GCL: GCL Graduate Certificate in Law
+GCMGT: GCMGT Graduate Certificate in Management
+GCMHP: GCMHP Graduate Certificate in Mental Health Practice
+GCNSC: GCNSC Graduate Certificate in Neuroscience
+GCNSCB: GCNSCB Graduate Certificate in Neuroscience and Business
+GCNSED: GCNSED Graduate Certificate in Neuroscience and Education
+GCPH01: GCPH01 Graduate Certificate in Public Health (One Health)
+GCPMNH: GCPMNH Graduate Certificate in Planning and Management of Natural Hazards
+GCPRP: GCPRP Graduate Certificate in Professional Practice
+GCRMHS: GCRMHS Graduate Certificate in Research Methods in Health and Social Care
+GCSC: GCSC Graduate Certificate in Science
+GCTSP: GCTSP Graduate Certificate in Transition and Succession Planning
+GDACC: GDACC Graduate Diploma in Accounting
+GDAPL: GDAPL Graduate Diploma in Applied Linguistics
+GDBUS: GDBUS Graduate Diploma in Business
+GDC1: GDC1 Graduate Diploma in Counselling
+GDCS: GDCS Graduate Diploma in Cybersecurity
+GDDIS: GDDIS Graduate Diploma in Disability Practice
+GDDSC: GDDSC Graduate Diploma in Data Science
+GDEC: GDEC Graduate Diploma in Economics
+GDEDS: GDEDS Graduate Diploma in Educational Studies
+GDFP01: GDFP01 Graduate Diploma in Financial Planning
+GDHM: GDHM Graduate Diploma in Health Management
+GDIT: GDIT Graduate Diploma in Information Technology
+GDLFAH: GDLFAH Graduate Diploma in Local, Family and Applied History
+GDMGT: GDMGT Graduate Diploma in Management
+GDMHP: GDMHP Graduate Diploma in Mental Health Practice
+GDNSC: GDNSC Graduate Diploma in Neuroscience
+GDNSCB: GDNSCB Graduate Diploma in Neuroscience and Business
+GDNSED: GDNSED Graduate Diploma in Neuroscience and Education
+GDPA: GDPA Graduate Diploma in Public Accounting
+GDPH01: GDPH01 Graduate Diploma in Public Health (One Health)
+GDPMNH: GDPMNH Graduate Diploma in Planning and Management of Natural Hazards
+GDPRP: GDPRP Graduate Diploma in Professional Practice
+GDPSY: GDPSY Graduate Diploma in Psychology
+GDPSYA: GDPSYA Graduate Diploma in Psychology (Advanced)
+GDSC: GDSC Graduate Diploma in Science
+GDTSP: GDTSP Graduate Diploma in Transition and Succession Planning
+GDURP: GDURP Graduate Diploma in Urban and Regional Planning
+HBA: HBA Bachelor of Arts with Honours
+HBAGB: HBAGB Bachelor of Agribusiness with Honours
+HBCEP: HBCEP Bachelor of Clinical Exercise Physiology with Honours
+HBCOMP: HBCOMP Bachelor of Computer Science with Honours
+HBCRIM: HBCRIM Bachelor of Criminology with Honours
+HBEC: HBEC Bachelor of Economics with Honours
+HBEXSS: HBEXSS Bachelor of Exercise and Sports Science with Honours
+HBINST: HBINST Bachelor of International Studies with Honours
+HBMC: HBMC Bachelor of Media and Communications with Honours
+HBMEDS: HBMEDS Bachelor of Medical Science with Honours
+HBMUS: HBMUS Bachelor of Music with Honours
+HBN: HBN Bachelor of Nursing with Honours
+HBPH1: HBPH1 Bachelor of Pharmacy with Honours
+HBPSYC: HBPSYC Bachelor of Psychology with Honours
+HBSC: HBSC Bachelor of Science with Honours
+HBSOCS: HBSOCS Bachelor of Social Science with Honours
+HSCP: HSCP HSC University Pathways
+MA: MA Master of Arts
+MAAL: MAAL Master of Applied Linguistics
+MAI: MAI Master of Artificial Intelligence
+MATS: MATS Master of Theatre and Performance
+MBA: MBA Master of Business Administration
+MBADCM: MBADCM Master of Business Administration (Data and Cyber Management)
+MBAI: MBAI Master of Business Administration (International)
+MC: MC Master of Counselling
+MCCSC: MCCSC Master of Cybersecurity and Computing
+MCOSC: MCOSC Master of Computer Science
+MCS: MCS Master of Cybersecurity
+MDIS: MDIS Master of Disability Practice
+MDSC: MDSC Master of Data Science
+MECCW: MECCW Master of Economics
+MECRD: MECRD Master of Economic and Regional Development
+MED: MED Master of Education
+MEDR: MEDR Master of Education (Research)
+MESCH: MESCH Master of Environmental Science (Research)
+MESCM: MESCM Master of Environmental Science and Management
+MHIST: MHIST Master of History
+MHM03: MHM03 Master of Health Management
+MIT: MIT Master of Information Technology
+MLAWCW: MLAWCW Master of Laws
+MLAWRS: MLAWRS Master of Laws (Research)
+MMHP: MMHP Master of Mental Health Practice
+MNP: MNP Master of Nursing Practice
+MNSC: MNSC Master of Neuroscience
+MNSCB: MNSCB Master of Neuroscience and Business
+MNSCED: MNSCED Master of Neuroscience and Education
+MPA: MPA Master of Professional Accounting
+MPH01: MPH01 Master of Public Health (One Health)
+MPHIL: MPHIL Master of Philosophy
+MPPSY: MPPSY Master of Professional Psychology
+MPSYCH: MPSYCH Master of Psychology (Clinical)
+MRURSC: MRURSC Master of Rural Science
+MSC: MSC Master of Science
+MSCAG: MSCAG Master of Science in Agriculture
+MSCST: MSCST Master of Scientific Studies
+MSODHR: MSODHR Master of Human Resource Management
+MSW: MSW Master of Social Work (Qualifying)
+MTCHPM: MTCHPM Master of Teaching (Primary)
+MTCHSC: MTCHSC Master of Teaching (Secondary)
+MURP: MURP Master of Urban and Regional Planning
+NAWARD: NAWARD Non-Award
+PHD: PHD Doctor of Philosophy
+PHDCP: PHDCP Doctor of Philosophy (Clinical Psychology)
+TRACKS: TRACKS TRACKS Tertiary Preparation Program
+UCA: UCA Undergraduate Certificate in Arts
+UCAGR: UCAGR Undergraduate Certificate in Agricultural Studies
+UCANST: UCANST Undergraduate Certificate in Animal Studies
+UCCOMP: UCCOMP Undergraduate Certificate in Computing
+UCCOT: UCCOT Undergraduate Certificate in Cotton Production
+UCENS: UCENS Undergraduate Certificate in Environmental Studies
+UCENT: UCENT Undergraduate Certificate in Entrepreneurship
+UCHSC: UCHSC Undergraduate Certificate in Health and Social Care
+UCLES: UCLES Undergraduate Certificate in Life and Earth Studies
+UCPAL: UCPAL Undergraduate Certificate in Palaeontology
+UCPD: UCPD Undergraduate Certificate in Professional Development
+UCPS: UCPS Undergraduate Certificate in Paralegal Studies
+UCPSYC: UCPSYC Undergraduate Certificate in Psychological Science
+UCURP: UCURP Undergraduate Certificate in Urban and Regional Planning
+UCYCW: UCYCW Undergraduate Certificate in Youth and Community Work
+XINST: XINST Cross-Institutional
